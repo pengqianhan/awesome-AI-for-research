@@ -8,10 +8,15 @@
 2. AI-research 港大
 3. Paperorchestra 
 
-### 基于 claude code 或者codex
+### 基于 claude code 或者codex 的科研系统
 1. [ARIS](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
-2.
 
+### Heuristic Learning using claude code or codex
+2. [Learning Beyond Gradients](https://trinkle23897.github.io/learning-beyond-gradients/)
+3. [HL-ImageNet](https://github.com/xisen-w/hl-imagenet)
+### Autoresearch related 
+1. [autoresearch](https://github.com/karpathy/autoresearch)
+2. [Autoresearch Paradigm Fire](https://paragiri.com/blog/2026/autoresearch-paradigm-fire/)
 ### AI4LLM
 1. https://github.com/karpathy/autoresearch 
 2. https://github.com/huggingface/ml-intern
@@ -20,11 +25,11 @@
 1. https://gxl.ai/blog/adding-arxiv-and-abstracts
 2. https://github.com/DeepXiv/deepxiv_sdk
 3. https://intern-atlas.opendatalab.org.cn/#api
-4. https://www.orchestra-research.com/ara
+4. https://www.orchestra-research.com/ara 
 
 ## Benchmark 评估AI 科研的效果
-1. paperbench 
+1. [PaperBench](https://github.com/paperbench/paperbench)
 2. https://internscience.github.io/ResearchClawBench-Home/
 3. https://einsteinarena.com/ 
 4. https://github.com/InternScience/ResearchClawBench 
-5. 
+5. [MLS-Bench](https://mls-bench.com/)
