@@ -17,6 +17,7 @@
 ### Autoresearch related 
 1. [autoresearch](https://github.com/karpathy/autoresearch)
 2. [Autoresearch Paradigm Fire](https://paragiri.com/blog/2026/autoresearch-paradigm-fire/)
+3. [PrimeIntellect](https://www.primeintellect.ai/auto-nanogpt)
 ### AI4LLM
 1. https://github.com/karpathy/autoresearch 
 2. https://github.com/huggingface/ml-intern
