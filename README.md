@@ -22,6 +22,8 @@
 ### AI4LLM
 1. https://github.com/karpathy/autoresearch 
 2. https://github.com/huggingface/ml-intern
+### Harness Engineering
+1. [Meta-Harness](https://github.com/stanford-iris-lab/meta-harness)
 
 ## Infrastructure 构建agent friendly 的科研基础设施
 1. https://gxl.ai/blog/adding-arxiv-and-abstracts
