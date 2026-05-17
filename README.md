@@ -9,7 +9,8 @@
 3. Paperorchestra 
 
 ### 基于 claude code 或者codex 的科研系统
-1. [ARIS](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
+1. [Auto-claude-code-research-in-sleep(ARIS)](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
+2. [Academic Research Skills for Claude Code (ARS)](https://github.com/Imbad0202/academic-research-skills/tree/main)
 
 ### Heuristic Learning using claude code or codex
 2. [Learning Beyond Gradients](https://trinkle23897.github.io/learning-beyond-gradients/)
