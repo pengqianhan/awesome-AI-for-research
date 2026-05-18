@@ -13,8 +13,9 @@
 2. [Academic Research Skills for Claude Code (ARS)](https://github.com/Imbad0202/academic-research-skills/tree/main)
 
 ### Heuristic Learning using claude code or codex
-2. [Learning Beyond Gradients](https://trinkle23897.github.io/learning-beyond-gradients/)
-3. [HL-ImageNet](https://github.com/xisen-w/hl-imagenet)
+1. [Learning Beyond Gradients](https://trinkle23897.github.io/learning-beyond-gradients/)
+2. [HL-ImageNet](https://github.com/xisen-w/hl-imagenet)
+3. [Trajevo(Evolving SOTA Trajectory Prediction Heuristics with LLMs)](https://github.com/ai4co/trajevo)
 ### Autoresearch related 
 1. [autoresearch](https://github.com/karpathy/autoresearch)
 2. [Autoresearch Paradigm Fire](https://paragiri.com/blog/2026/autoresearch-paradigm-fire/)
@@ -26,10 +27,10 @@
 1. [Meta-Harness](https://github.com/stanford-iris-lab/meta-harness)
 
 ## Infrastructure 构建agent friendly 的科研基础设施
-1. https://gxl.ai/blog/adding-arxiv-and-abstracts
-2. https://github.com/DeepXiv/deepxiv_sdk
-3. https://intern-atlas.opendatalab.org.cn/#api
-4. https://www.orchestra-research.com/ara 
+1. [Adding arXiv and 150M+ abstracts to Paperclip](https://gxl.ai/blog/adding-arxiv-and-abstracts)
+2. [DeepXiv SDK](https://github.com/DeepXiv/deepxiv_sdk)
+3. [AI 方法演化图谱](https://intern-atlas.opendatalab.org.cn/#api)
+4. [The Last Human-Written Paper Agent-Native Research Artifacts](https://www.orchestra-research.com/ara) 
 
 ## Benchmark 评估AI 科研的效果
 1. [PaperBench](https://github.com/paperbench/paperbench)
