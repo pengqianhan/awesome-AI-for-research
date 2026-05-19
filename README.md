@@ -5,12 +5,18 @@
 
 ### 基于api
 1. Sakura 的 AI-scientist 和 AI-scientist2 
-2. AI-research 港大
-3. Paperorchestra 
+2. [AI-Researcher(HKUDS)](https://github.com/HKUDS/AI-Researcher)
+3. [Paperorchestra](https://yiwen-song.github.io/paper_orchestra/) 
+4. [PaperBanana](https://dwzhu-pku.github.io/PaperBanana/)
+#### 遗传算法和搜索算法结合LLM
+1. [OpenEvolve](https://github.com/algorithmicsuperintelligence/openevolve)
 
 ### 基于 claude code 或者codex 的科研系统
 1. [Auto-claude-code-research-in-sleep(ARIS)](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
 2. [Academic Research Skills for Claude Code (ARS)](https://github.com/Imbad0202/academic-research-skills/tree/main)
+#### skills 
+1. [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills)
+2. [ToolUniverse](https://github.com/mims-harvard/ToolUniverse)
 
 ### Heuristic Learning using claude code or codex
 1. [Learning Beyond Gradients](https://trinkle23897.github.io/learning-beyond-gradients/)
@@ -31,6 +37,7 @@
 2. [DeepXiv SDK](https://github.com/DeepXiv/deepxiv_sdk)
 3. [AI 方法演化图谱](https://intern-atlas.opendatalab.org.cn/#api)
 4. [The Last Human-Written Paper Agent-Native Research Artifacts](https://www.orchestra-research.com/ara) 
+5. [General Agent: A Self-Evolving, Synthetic Agent Environment](https://www.primeintellect.ai/blog/general-agent)
 
 ## Benchmark 评估AI 科研的效果
 1. [PaperBench](https://github.com/paperbench/paperbench)
