@@ -34,7 +34,7 @@
 ### Harness Engineering
 1. [Meta-Harness](https://github.com/stanford-iris-lab/meta-harness)
 
-## Infrastructure 构建agent friendly 的科研基础设施
+## Infrastructure for agent friendly research
 1. [Adding arXiv and 150M+ abstracts to Paperclip](https://gxl.ai/blog/adding-arxiv-and-abstracts)
 2. [DeepXiv SDK](https://github.com/DeepXiv/deepxiv_sdk)
 3. [AI 方法演化图谱](https://intern-atlas.opendatalab.org.cn/#api)
