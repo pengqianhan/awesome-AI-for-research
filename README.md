@@ -40,6 +40,7 @@
 3. [AI 方法演化图谱](https://intern-atlas.opendatalab.org.cn/#api)
 4. [The Last Human-Written Paper Agent-Native Research Artifacts](https://www.orchestra-research.com/ara) 
 5. [General Agent: A Self-Evolving, Synthetic Agent Environment](https://www.primeintellect.ai/blog/general-agent)
+6. [sepo: self-evolving repository(use GitHub to manage long-horizon tasks)](https://github.com/self-evolving/repo/tree/main)
 
 ## Benchmark for the research agent
 1. [PaperBench](https://github.com/paperbench/paperbench)
