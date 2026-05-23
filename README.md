@@ -10,6 +10,7 @@
 4. [PaperBanana](https://dwzhu-pku.github.io/PaperBanana/)
 #### 遗传算法和搜索算法结合LLM
 1. [OpenEvolve](https://github.com/algorithmicsuperintelligence/openevolve)
+2. [Claude-Evolve](https://github.com/samuelzxu/claude-evolve)
 
 ### 基于 claude code 或者codex 的科研系统
 1. [Auto-claude-code-research-in-sleep(ARIS)](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
@@ -26,6 +27,7 @@
 1. [autoresearch](https://github.com/karpathy/autoresearch)
 2. [Autoresearch Paradigm Fire](https://paragiri.com/blog/2026/autoresearch-paradigm-fire/)
 3. [PrimeIntellect](https://www.primeintellect.ai/auto-nanogpt)
+4. [Awesome-Autoresearch(A curated awesome list of public autoresearch use cases across industries.)](https://github.com/yibie/awesome-autoresearch)
 ### AI4LLM
 1. https://github.com/karpathy/autoresearch 
 2. https://github.com/huggingface/ml-intern
