@@ -41,7 +41,7 @@
 4. [The Last Human-Written Paper Agent-Native Research Artifacts](https://www.orchestra-research.com/ara) 
 5. [General Agent: A Self-Evolving, Synthetic Agent Environment](https://www.primeintellect.ai/blog/general-agent)
 
-## Benchmark 评估AI 科研的效果
+## Benchmark for the research agent
 1. [PaperBench](https://github.com/paperbench/paperbench)
 2. https://internscience.github.io/ResearchClawBench-Home/
 3. https://einsteinarena.com/ 
