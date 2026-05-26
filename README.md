@@ -48,3 +48,6 @@
 3. https://einsteinarena.com/ 
 4. https://github.com/InternScience/ResearchClawBench 
 5. [MLS-Bench](https://mls-bench.com/)
+
+## Papers collection 
+1. [AI Discovery in the Wild (CAIS 2026 Workshop)](https://ai-discovery-in-the-wild.github.io/papers.html)
