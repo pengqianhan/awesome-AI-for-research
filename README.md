@@ -19,7 +19,8 @@
 1. [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills)
 2. [ToolUniverse](https://github.com/mims-harvard/ToolUniverse)
 3. [Scientific Paper Writing Skills from Deli Chen](https://victorchen96.github.io/auto_research/skill/paper-writing.html)
-
+### CLI based AI scientist
+1. [EvoScientist](https://github.com/EvoScientist/EvoScientist)
 ### Heuristic Learning using claude code or codex
 1. [Learning Beyond Gradients](https://trinkle23897.github.io/learning-beyond-gradients/)
 2. [HL-ImageNet](https://github.com/xisen-w/hl-imagenet)
