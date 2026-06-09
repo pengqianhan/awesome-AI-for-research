@@ -19,10 +19,11 @@
 1. [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills)
 2. [ToolUniverse](https://github.com/mims-harvard/ToolUniverse)
 
-### Heuristic Learning using claude code or codex
+### Heuristic Learning using claude code or codex as optimizer
 1. [Learning Beyond Gradients](https://trinkle23897.github.io/learning-beyond-gradients/)
 2. [HL-ImageNet](https://github.com/xisen-w/hl-imagenet)
 3. [Trajevo(Evolving SOTA Trajectory Prediction Heuristics with LLMs)](https://github.com/ai4co/trajevo)
+4. [PatchWorld: Learning Executable World Models without Gradients](https://bjx.fun/p/patchworld-learning-executable-world-models-without-gradients/)
 ### Autoresearch related 
 1. [autoresearch](https://github.com/karpathy/autoresearch)
 2. [Autoresearch Paradigm Fire](https://paragiri.com/blog/2026/autoresearch-paradigm-fire/)
