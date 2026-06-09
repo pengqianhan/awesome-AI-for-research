@@ -34,7 +34,10 @@
 2. https://github.com/huggingface/ml-intern
 ### Harness Engineering
 1. [Meta-Harness](https://github.com/stanford-iris-lab/meta-harness)
-
+### others (待分类)
+1. [AutoScientists](https://github.com/mims-harvard/AutoScientists)
+2. [DeepScientist](https://github.com/ResearAI/DeepScientist)
+3. [evoscientist](https://github.com/EvoScientist/EvoScientist)
 ## Infrastructure for agent friendly research
 1. [Adding arXiv and 150M+ abstracts to Paperclip](https://gxl.ai/blog/adding-arxiv-and-abstracts)
 2. [DeepXiv SDK](https://github.com/DeepXiv/deepxiv_sdk)
