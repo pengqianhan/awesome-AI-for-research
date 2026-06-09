@@ -4,7 +4,7 @@
 ## AI-scientist 
 
 ### 基于api
-1. Sakura 的 AI-scientist 和 AI-scientist2 
+1. [AI-scientist](https://github.com/SakanaAI/AI-Scientist) and [AI-scientist v2](https://github.com/SakanaAI/AI-Scientist-v2/tree/main)
 2. [AI-Researcher(HKUDS)](https://github.com/HKUDS/AI-Researcher)
 3. [Paperorchestra](https://yiwen-song.github.io/paper_orchestra/) 
 4. [PaperBanana](https://dwzhu-pku.github.io/PaperBanana/)
@@ -18,8 +18,15 @@
 #### skills 
 1. [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills)
 2. [ToolUniverse](https://github.com/mims-harvard/ToolUniverse)
+<<<<<<< HEAD
 
 ### Heuristic Learning using claude code or codex as optimizer
+=======
+3. [Scientific Paper Writing Skills from Deli Chen](https://victorchen96.github.io/auto_research/skill/paper-writing.html)
+### CLI based AI scientist
+1. [EvoScientist](https://github.com/EvoScientist/EvoScientist)
+### Heuristic Learning using claude code or codex
+>>>>>>> 6c53e0ab65daf279814902f3751bde3afa69a5ba
 1. [Learning Beyond Gradients](https://trinkle23897.github.io/learning-beyond-gradients/)
 2. [HL-ImageNet](https://github.com/xisen-w/hl-imagenet)
 3. [Trajevo(Evolving SOTA Trajectory Prediction Heuristics with LLMs)](https://github.com/ai4co/trajevo)
