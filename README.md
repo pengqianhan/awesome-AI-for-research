@@ -9,8 +9,9 @@
 3. [Paperorchestra](https://yiwen-song.github.io/paper_orchestra/) 
 4. [PaperBanana](https://dwzhu-pku.github.io/PaperBanana/)
 #### 遗传算法和搜索算法结合LLM
-1. [OpenEvolve](https://github.com/algorithmicsuperintelligence/openevolve)
+1. [OpenEvolve(alphaevolve)](https://github.com/algorithmicsuperintelligence/openevolve)
 2. [Claude-Evolve](https://github.com/samuelzxu/claude-evolve)
+3. [MLEvolve](https://github.com/InternScience/MLEvolve)
 
 ### 基于 claude code 或者codex 的科研系统
 1. [Auto-claude-code-research-in-sleep(ARIS)](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
