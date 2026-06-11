@@ -16,6 +16,7 @@
 ### 基于 claude code 或者codex 的科研系统
 1. [Auto-claude-code-research-in-sleep(ARIS)](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
 2. [Academic Research Skills for Claude Code (ARS)](https://github.com/Imbad0202/academic-research-skills/tree/main)
+3. [AutoR](https://github.com/AutoX-AI-Labs/AutoR)
 #### skills 
 1. [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills)
 2. [ToolUniverse](https://github.com/mims-harvard/ToolUniverse)
