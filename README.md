@@ -50,10 +50,11 @@
 
 ## Benchmark for the research agent
 1. [PaperBench](https://github.com/paperbench/paperbench)
-2. https://internscience.github.io/ResearchClawBench-Home/
-3. https://einsteinarena.com/ 
-4. https://github.com/InternScience/ResearchClawBench 
+2. [ResearchClawBench](https://internscience.github.io/ResearchClawBench-Home/)
+3. [EinsteinArena](https://einsteinarena.com/) 
+4. [ResearchClawBench](https://github.com/InternScience/ResearchClawBench)
 5. [MLS-Bench](https://mls-bench.com/)
+6. [Autolab](https://github.com/autolabhq/autolab)
 
 ## Papers collection 
 1. [AI Discovery in the Wild (CAIS 2026 Workshop)](https://ai-discovery-in-the-wild.github.io/papers.html)
