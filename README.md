@@ -62,7 +62,8 @@
 1. [autoresearch](https://github.com/karpathy/autoresearch)
 2. [Autoresearch Paradigm Fire](https://paragiri.com/blog/2026/autoresearch-paradigm-fire/)
 3. [PrimeIntellect](https://www.primeintellect.ai/auto-nanogpt)
-4. [Awesome-Autoresearch(A curated awesome list of public autoresearch use cases across industries.)](https://github.com/yibie/awesome-autoresearch)
+4. [AutoScientists](https://github.com/mims-harvard/AutoScientists/tree/main)
+5. [DeLM](https://yuzhenmao.github.io/DeLM/) (note: 4, and 5 both use parallel agents to do research)
 
 ### AI4LLM
 
@@ -111,7 +112,7 @@
 1. [Awesome-Autoresearch](https://github.com/alvinreal/awesome-autoresearch)
 2. [Awesome-Auto-Research-Tools](https://github.com/handsome-rich/Awesome-Auto-Research-Tools)
 3. [Awesome-AI-for-Research](https://github.com/WecoAI/awesome-ai-for-research)
-4. 
+4. [Awesome-Autoresearch(A curated awesome list of public autoresearch use cases across industries.)](https://github.com/yibie/awesome-autoresearch)
 
 ## 维护说明
 
