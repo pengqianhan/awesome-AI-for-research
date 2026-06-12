@@ -1,0 +1,4 @@
+interface:
+  display_name: "Add Research Link"
+  short_description: "Add AI research links to both READMEs"
+  default_prompt: "Use $add-research-link to add this URL to the awesome AI research lists."
