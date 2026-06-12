@@ -105,6 +105,11 @@
 1. [MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)
 2. [OpenCode](https://github.com/anomalyco/opencode)
 3. [Kimi-Code](https://github.com/MoonshotAI/kimi-code)
+## Related Projects and Resources
+1. [Awesome-Autoresearch](https://github.com/alvinreal/awesome-autoresearch)
+2. [Awesome-Auto-Research-Tools](https://github.com/handsome-rich/Awesome-Auto-Research-Tools)
+3. [Awesome-AI-for-Research](https://github.com/WecoAI/awesome-ai-for-research)
+4. 
 
 ## 维护说明
 
