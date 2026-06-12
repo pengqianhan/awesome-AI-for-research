@@ -1,6 +1,6 @@
 # Awesome AI for Research
 
-[English](README.md) | [Chinese](README_zh.md)
+[English](README.md) | [中文](README_zh.md)
 
 > A continuously updated collection of AI for Research / AI4Research projects, papers, infrastructure, and benchmarks for tracking the ecosystem, identifying pain points, and finding promising directions.
 
