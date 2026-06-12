@@ -17,6 +17,7 @@
 1. [Auto-claude-code-research-in-sleep(ARIS)](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
 2. [Academic Research Skills for Claude Code (ARS)](https://github.com/Imbad0202/academic-research-skills/tree/main)
 3. [AutoR](https://github.com/AutoX-AI-Labs/AutoR)
+4. [Feynman](https://github.com/companion-inc/feynman/tree/main)
 #### skills 
 1. [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills)
 2. [ToolUniverse](https://github.com/mims-harvard/ToolUniverse)
@@ -58,3 +59,8 @@
 
 ## Papers collection 
 1. [AI Discovery in the Wild (CAIS 2026 Workshop)](https://ai-discovery-in-the-wild.github.io/papers.html)
+
+## xCode series
+1. [MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)
+2. [OpenCode](https://github.com/anomalyco/opencode)
+3. [Kimi-Code](https://github.com/MoonshotAI/kimi-code)
