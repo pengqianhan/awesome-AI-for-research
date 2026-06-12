@@ -6,21 +6,22 @@
 
 ## 目录
 
-- AI-scientist
-  - 基于 API
-  - 遗传算法和搜索算法结合 LLM
-  - 基于 Claude Code 或 Codex 的科研系统
-  - Skills
-  - Heuristic Learning using Claude Code or Codex as optimizer
-  - Autoresearch related
-  - AI4LLM
-  - Harness Engineering
-  - Others / 待分类
-- Infrastructure for agent friendly research
-- Benchmark for the research agent
-- Papers collection
-- xCode series
-- 维护说明
+- <a href="#ai-scientist">AI-scientist</a>
+  - <a href="#基于-api">基于 API</a>
+  - <a href="#遗传算法和搜索算法结合-llm">遗传算法和搜索算法结合 LLM</a>
+  - <a href="#基于-claude-code-或-codex-的科研系统">基于 Claude Code 或 Codex 的科研系统</a>
+  - <a href="#skills">Skills</a>
+  - <a href="#heuristic-learning-using-claude-code-or-codex-as-optimizer">Heuristic Learning using Claude Code or Codex as optimizer</a>
+  - <a href="#autoresearch-related">Autoresearch related</a>
+  - <a href="#ai4llm">AI4LLM</a>
+  - <a href="#harness-engineering">Harness Engineering</a>
+  - <a href="#others--待分类">Others / 待分类</a>
+- <a href="#infrastructure-for-agent-friendly-research">Infrastructure for agent friendly research</a>
+- <a href="#benchmark-for-the-research-agent">Benchmark for the research agent</a>
+- <a href="#papers-collection">Papers collection</a>
+- <a href="#xcode-series">xCode series</a>
+- <a href="#related-projects-and-resources">Related Projects and Resources</a>
+- <a href="#维护说明">维护说明</a>
 
 ## AI-scientist
 
@@ -86,6 +87,7 @@
 4. [The Last Human-Written Paper Agent-Native Research Artifacts](https://www.orchestra-research.com/ara)
 5. [General Agent: A Self-Evolving, Synthetic Agent Environment](https://www.primeintellect.ai/blog/general-agent)
 6. [sepo: self-evolving repository(use GitHub to manage long-horizon tasks)](https://github.com/self-evolving/repo/tree/main)
+7. [AirXiv](https://airaxiv.com/)
 
 ## Benchmark for the research agent
 
