@@ -91,6 +91,7 @@
 5. [General Agent: A Self-Evolving, Synthetic Agent Environment](https://www.primeintellect.ai/blog/general-agent) - 自进化合成智能体环境，通过持续扩展任务语料来提升 agent 训练的多样性和难度。
 6. [sepo: self-evolving repository(use GitHub to manage long-horizon tasks)](https://github.com/self-evolving/repo/tree/main) - GitHub-native agent 模板，用 issue、PR、Actions、分支和仓库记忆承载长期任务。
 7. [AirXiv](https://airaxiv.com/) - 面向 AI 生成论文和人类论文的 AI 驱动开放预印本平台，并提供 AI 评审支持。
+8. [OKF](https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/okf) - 一个开源的知识库格式，用于存储和检索科学知识。
 
 ## Benchmark for the research agent
 
