@@ -66,6 +66,8 @@ I often see articles and products that use AI directly for research, each with a
 3. [PrimeIntellect](https://www.primeintellect.ai/auto-nanogpt) - An autonomous nanoGPT speedrun study where Codex and Claude Code ran large-scale optimizer search on Prime Intellect compute.
 4. [AutoScientists](https://github.com/mims-harvard/AutoScientists/tree/main) - A framework for self-organizing agent teams that run long-horizon scientific experimentation.
 5. [DeLM](https://yuzhenmao.github.io/DeLM/) - A decentralized multi-agent framework where parallel agents coordinate through shared verified context and a task queue. (note: items 4 and 5 both use parallel agents to conduct research)
+6. [ENPIRE](https://research.nvidia.com/labs/gear/enpire/#article-title) - Agentic Robot Policy
+Self-Improvement in the Real World (ENPIRE),where robotic agents autonomously experiment and improve themselves in the physical world to enhance performance.
 
 ### AI4LLM
 

@@ -66,6 +66,8 @@
 3. [PrimeIntellect](https://www.primeintellect.ai/auto-nanogpt) - Prime Intellect 的自主 nanoGPT speedrun 实验，让 Codex 和 Claude Code 在大规模算力上搜索优化器方案。
 4. [AutoScientists](https://github.com/mims-harvard/AutoScientists/tree/main) - 面向长期科学实验的自组织多智能体团队框架。
 5. [DeLM](https://yuzhenmao.github.io/DeLM/) - 去中心化多智能体框架，让并行智能体通过共享的已验证上下文和任务队列协作。（注：第 4 和第 5 项都使用并行智能体开展研究）
+6. [ENPIRE](https://research.nvidia.com/labs/gear/enpire/#article-title) - Agentic Robot Policy
+Self-Improvement in the Real World (ENPIRE)，让机器人智能体在物理世界中通过自主实验和改进来提升性能。
 
 ### AI4LLM
 
