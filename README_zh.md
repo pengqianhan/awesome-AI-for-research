@@ -46,6 +46,7 @@
 2. [Academic Research Skills for Claude Code (ARS)](https://github.com/Imbad0202/academic-research-skills/tree/main) - 面向 Claude Code 的学术研究技能流程，覆盖调研、写作、审阅、修订和定稿。
 3. [AutoR](https://github.com/AutoX-AI-Labs/AutoR) - AI 负责执行、人类把握方向的研究系统，每次运行都会沉淀为可检查的磁盘 artifact。
 4. [Feynman](https://github.com/companion-inc/feynman/tree/main) - 开源 AI 科研代理，支持文献综述、深度研究、模拟评审、审计、复现实验和实验流程。
+5. [Deli_AutoResearch](https://victorchen96.github.io/auto_research/framework.html#fullmd) - 面向长期自主任务的协议框架。
 
 ### Skills
 

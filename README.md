@@ -46,6 +46,7 @@ I often see articles and products that use AI directly for research, each with a
 2. [Academic Research Skills for Claude Code (ARS)](https://github.com/Imbad0202/academic-research-skills/tree/main) - A Claude Code skill workflow for academic research, writing, review, revision, and finalization.
 3. [AutoR](https://github.com/AutoX-AI-Labs/AutoR) - A research workflow where AI handles execution, humans steer direction, and each run becomes an inspectable artifact on disk.
 4. [Feynman](https://github.com/companion-inc/feynman/tree/main) - An open-source AI research agent for literature review, deep research, peer review, auditing, replication, and experiment workflows.
+5. [Deli_AutoResearch](https://victorchen96.github.io/auto_research/framework.html#fullmd) - A protocol framework for long-horizon autonomous tasks.
 
 ### Skills
 
