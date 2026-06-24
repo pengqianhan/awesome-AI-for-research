@@ -95,7 +95,7 @@ Self-Improvement in the Real World (ENPIRE)，让机器人智能体在物理世�
 6. [sepo: self-evolving repository(use GitHub to manage long-horizon tasks)](https://github.com/self-evolving/repo/tree/main) - GitHub-native agent 模板，用 issue、PR、Actions、分支和仓库记忆承载长期任务。
 7. [AirXiv](https://airaxiv.com/) - 面向 AI 生成论文和人类论文的 AI 驱动开放预印本平台，并提供 AI 评审支持。
 8. [OKF](https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/okf) - 一个开源的知识库格式，用于存储和检索科学知识。
-
+9. [ModernTSF](https://github.com/Diaugeia/ModernTSF/tree/main) - 面向时间序列预测的 AI Infrastructure —— 而不只是又一个工具包。 一个统一、可复现的底座，让人和 Agent 都把时间花在创新 idea 上， 而不是它周围的各种胶水工作
 ## Benchmark for the research agent
 
 1. [PaperBench](https://github.com/paperbench/paperbench) - 用于评估智能体从零复现 AI 研究论文能力的基准；当前列出的 GitHub URL 可能需要核对。

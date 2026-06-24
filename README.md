@@ -95,6 +95,7 @@ Self-Improvement in the Real World (ENPIRE),where robotic agents autonomously ex
 6. [sepo: self-evolving repository that uses GitHub to manage long-horizon tasks](https://github.com/self-evolving/repo/tree/main) - A GitHub-native agent template that uses issues, PRs, actions, branches, and repository memory to sustain long-horizon work.
 7. [AirXiv](https://airaxiv.com/) - An AI-driven open-access preprint platform for AI-generated and human-authored papers, with AI review support.
 8. [OKF](https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/okf) - A open knowledge format for storing and retrieving scientific knowledge.
+9. [ModernTSF](https://github.com/Diaugeia/ModernTSF/tree/main) - Agent Infrastructure for time-series forecasting — not just another toolkit. A unified, reproducible substrate where humans and agents spend their time on the idea, not the plumbing around it.
 
 ## Benchmarks for research agents
 
