@@ -33,6 +33,7 @@ I often see articles and products that use AI directly for research, each with a
 2. [AI Researcher (HKUDS)](https://github.com/HKUDS/AI-Researcher) - An autonomous scientific innovation system that supports end-to-end research ideation, experimentation, and paper generation.
 3. [Paperorchestra](https://yiwen-song.github.io/paper_orchestra/) - A multi-agent framework that turns sparse idea summaries and raw experiment logs into submission-ready AI research manuscripts.
 4. [PaperBanana](https://dwzhu-pku.github.io/PaperBanana/) - An agentic framework for generating publication-ready academic diagrams and statistical plots.
+5. [Scientist-One](https://scientist-one.github.io/) - ScientistOne autonomously generates research papers with verifiable evidence chains—every claim traces to code, data, or literature—while matching or exceeding human expert performance on frontier algorithm discovery tasks.
 
 ### LLMs combined with genetic and search algorithms
 
@@ -95,7 +96,6 @@ Self-Improvement in the Real World (ENPIRE),where robotic agents autonomously ex
 6. [sepo: self-evolving repository that uses GitHub to manage long-horizon tasks](https://github.com/self-evolving/repo/tree/main) - A GitHub-native agent template that uses issues, PRs, actions, branches, and repository memory to sustain long-horizon work.
 7. [AirXiv](https://airaxiv.com/) - An AI-driven open-access preprint platform for AI-generated and human-authored papers, with AI review support.
 8. [OKF](https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/okf) - A open knowledge format for storing and retrieving scientific knowledge.
-9. [ModernTSF](https://github.com/Diaugeia/ModernTSF/tree/main) - Agent Infrastructure for time-series forecasting — not just another toolkit. A unified, reproducible substrate where humans and agents spend their time on the idea, not the plumbing around it.
 
 ## Benchmarks for research agents
 

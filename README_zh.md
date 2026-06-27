@@ -33,6 +33,7 @@
 2. [AI-Researcher(HKUDS)](https://github.com/HKUDS/AI-Researcher) - 面向自主科学创新的系统，支持从研究构想到实验和论文生成的端到端流程。
 3. [Paperorchestra](https://yiwen-song.github.io/paper_orchestra/) - 多智能体论文写作框架，可把稀疏想法摘要和原始实验日志转成接近投稿状态的 AI 研究论文。
 4. [PaperBanana](https://dwzhu-pku.github.io/PaperBanana/) - 面向 AI 科学家的学术插图生成框架，用于自动生成论文级方法图和统计图。
+5. [Scientist-One](https://scientist-one.github.io/) - ScientistOne 能够自主生成具备可验证证据链的研究论文——其每一项主张均可追溯至代码、数据或文献——同时在前沿算法发现任务上，达到甚至超越人类专家的水平。
 
 ### 遗传算法和搜索算法结合 LLM
 
