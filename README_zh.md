@@ -88,15 +88,26 @@ Self-Improvement in the Real World (ENPIRE)，让机器人智能体在物理世�
 
 ## Infrastructure for agent friendly research
 
-1. [Adding arXiv and 150M+ abstracts to Paperclip](https://gxl.ai/blog/adding-arxiv-and-abstracts) - 介绍 Paperclip 如何为智能体索引 arXiv 全文和 OpenAlex 规模的摘要语料，支持搜索、阅读和综合。
-2. [DeepXiv SDK](https://github.com/DeepXiv/deepxiv_sdk) - 用于和 arXiv 论文对话的 Python 包与 AI agent 接口。
-3. [AI 方法演化图谱](https://intern-atlas.opendatalab.org.cn/#api) - 面向智能体的结构化、可查询 AI 方法演化图谱，可作为科学记忆层。
-4. [The Last Human-Written Paper Agent-Native Research Artifacts](https://www.orchestra-research.com/ara) - 提出用机器原生研究 artifact 替代扁平论文，保留逻辑、代码、探索轨迹和证据。
-5. [General Agent: A Self-Evolving, Synthetic Agent Environment](https://www.primeintellect.ai/blog/general-agent) - 自进化合成智能体环境，通过持续扩展任务语料来提升 agent 训练的多样性和难度。
-6. [sepo: self-evolving repository(use GitHub to manage long-horizon tasks)](https://github.com/self-evolving/repo/tree/main) - GitHub-native agent 模板，用 issue、PR、Actions、分支和仓库记忆承载长期任务。
-7. [AirXiv](https://airaxiv.com/) - 面向 AI 生成论文和人类论文的 AI 驱动开放预印本平台，并提供 AI 评审支持。
-8. [OKF](https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/okf) - 一个开源的知识库格式，用于存储和检索科学知识。
-9. [ModernTSF](https://github.com/Diaugeia/ModernTSF/tree/main) - 面向时间序列预测的 AI Infrastructure —— 而不只是又一个工具包。 一个统一、可复现的底座，让人和 Agent 都把时间花在创新 idea 上， 而不是它周围的各种胶水工作
+1. [Hugging Face Hub CLI](https://huggingface.co/docs/huggingface_hub/en/guides/cli) - Hugging Face Hub 命令行工具，用于管理模型、数据集和 Spaces，支持智能体友好的科研工作流。`hf papers read` 可将 Hugging Face Hub 上的论文读取为 Markdown。
+
+   ```text
+   Usage: hf papers read [OPTIONS] PAPER_ID
+
+     Read a paper as markdown.
+
+   Arguments:
+     PAPER_ID  The arXiv paper ID (e.g. '2502.08025').  [required]
+   ```
+
+2. [Adding arXiv and 150M+ abstracts to Paperclip](https://gxl.ai/blog/adding-arxiv-and-abstracts) - 介绍 Paperclip 如何为智能体索引 arXiv 全文和 OpenAlex 规模的摘要语料，支持搜索、阅读和综合。
+3. [DeepXiv SDK](https://github.com/DeepXiv/deepxiv_sdk) - 用于和 arXiv 论文对话的 Python 包与 AI agent 接口。
+4. [AI 方法演化图谱](https://intern-atlas.opendatalab.org.cn/#api) - 面向智能体的结构化、可查询 AI 方法演化图谱，可作为科学记忆层。
+5. [The Last Human-Written Paper Agent-Native Research Artifacts](https://www.orchestra-research.com/ara) - 提出用机器原生研究 artifact 替代扁平论文，保留逻辑、代码、探索轨迹和证据。
+6. [General Agent: A Self-Evolving, Synthetic Agent Environment](https://www.primeintellect.ai/blog/general-agent) - 自进化合成智能体环境，通过持续扩展任务语料来提升 agent 训练的多样性和难度。
+7. [sepo: self-evolving repository(use GitHub to manage long-horizon tasks)](https://github.com/self-evolving/repo/tree/main) - GitHub-native agent 模板，用 issue、PR、Actions、分支和仓库记忆承载长期任务。
+8. [AirXiv](https://airaxiv.com/) - 面向 AI 生成论文和人类论文的 AI 驱动开放预印本平台，并提供 AI 评审支持。
+9. [OKF](https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/okf) - 一个开源的知识库格式，用于存储和检索科学知识。
+10. [ModernTSF](https://github.com/Diaugeia/ModernTSF/tree/main) - 面向时间序列预测的 AI Infrastructure —— 而不只是又一个工具包。 一个统一、可复现的底座，让人和 Agent 都把时间花在创新 idea 上， 而不是它周围的各种胶水工作
 ## Benchmark for the research agent
 
 1. [PaperBench](https://github.com/paperbench/paperbench) - 用于评估智能体从零复现 AI 研究论文能力的基准；当前列出的 GitHub URL 可能需要核对。
