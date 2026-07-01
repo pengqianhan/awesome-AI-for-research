@@ -108,6 +108,7 @@ Self-Improvement in the Real World (ENPIRE),where robotic agents autonomously ex
 9. [AirXiv](https://airaxiv.com/) - An AI-driven open-access preprint platform for AI-generated and human-authored papers, with AI review support.
 10. [OKF](https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/okf) - A open knowledge format for storing and retrieving scientific knowledge.
 11. [ModernTSF](https://github.com/Diaugeia/ModernTSF/tree/main) - Agent Infrastructure for time-series forecasting — not just another toolkit. A unified, reproducible substrate where humans and agents spend their time on the idea, not the plumbing around it.
+12. [Sciverse](http://sciverse.space/docs#overview) - A platform for agentic research papers.
 
 ## Benchmarks for research agents
 
