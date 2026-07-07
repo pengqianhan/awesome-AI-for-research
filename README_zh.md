@@ -76,15 +76,14 @@ Self-Improvement in the Real World (ENPIRE)，让机器人智能体在物理世�
 1. [Autoresearch](https://github.com/karpathy/autoresearch) - 用于单卡 LLM 训练研究的紧凑型自主实验循环。
 2. [ML-Intern](https://github.com/huggingface/ml-intern) - 开源 ML 工程师智能体，可阅读论文、训练模型并交付机器学习 artifact。
 
-### Harness Engineering
+### RSI (recursive self improvement) / Harness Engineering
 
-1. [Meta-Harness](https://github.com/stanford-iris-lab/meta-harness) - Meta-Harness 论文的参考代码，用于在昂贵评估条件下搜索 agent harness。
-
-### Others / 待分类
-
-1. [AutoScientists](https://github.com/mims-harvard/AutoScientists) - 基于自组织多智能体团队的长期科学实验框架。
-2. [DeepScientist](https://github.com/ResearAI/DeepScientist) - 本地优先的自主科研工作室，管理 baseline、实验轮次、记忆和论文级输出。
-3. [evoscientist](https://github.com/EvoScientist/EvoScientist) - 自进化 AI 科学家项目，关注迭代式、智能体驱动的研究流程。
+1. [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) - Lilian Weng 的博客，这篇博客详细介绍了如何以大型语言模型（LLM）作为核心大脑来构建自主代理（Autonomous Agents），并深入探讨了实现该系统的三大关键组件：任务规划（Planning）、记忆机制（Memory）和工具使用（Tool Use）。
+2. [When AI builds itself](https://www.anthropic.com/institute/recursive-self-improvement) - 这篇博客探讨了人工智能发展中的自我进化趋势，指出随着AI系统能力的提升，它们越来越多地参与到自身的设计与开发中，这不仅加速了技术进步，也预示着能够完全自主设计其继任者的“递归自我改进”AI可能比预期更早到来，从而带来巨大的机遇与潜在风险。
+3. [Meta-Harness](https://github.com/stanford-iris-lab/meta-harness) - Meta-Harness 论文的参考代码，用于在昂贵评估条件下搜索 agent harness。
+4. [AutoScientists](https://github.com/mims-harvard/AutoScientists) - 基于自组织多智能体团队的长期科学实验框架。
+5. [DeepScientist](https://github.com/ResearAI/DeepScientist) - 本地优先的自主科研工作室，管理 baseline、实验轮次、记忆和论文级输出。
+6. [evoscientist](https://github.com/EvoScientist/EvoScientist) - 自进化 AI 科学家项目，关注迭代式、智能体驱动的研究流程。
 
 ## Infrastructure for agent friendly research
 

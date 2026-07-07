@@ -76,15 +76,14 @@ Self-Improvement in the Real World (ENPIRE),where robotic agents autonomously ex
 1. [Autoresearch](https://github.com/karpathy/autoresearch) - A compact benchmark-style loop for autonomous LLM training research on a single GPU.
 2. [ML-Intern](https://github.com/huggingface/ml-intern) - An open-source ML engineer agent that reads papers, trains models, and ships machine learning artifacts.
 
-### Harness Engineering
+### RSI (recursive self improvement) / Harness Engineering
 
-1. [Meta-Harness](https://github.com/stanford-iris-lab/meta-harness) - Reference code for Meta-Harness, a method for searching agent harnesses under expensive evaluation.
-
-### Others / To be categorized
-
-1. [AutoScientists](https://github.com/mims-harvard/AutoScientists) - A long-running scientific experimentation framework built around self-organizing multi-agent teams.
-2. [DeepScientist](https://github.com/ResearAI/DeepScientist) - A local-first autonomous research studio that manages baselines, experiment rounds, memory, and paper-ready outputs.
-3. [evoscientist](https://github.com/EvoScientist/EvoScientist) - A self-evolving AI scientist project focused on iterative, agent-driven research workflows.
+1. [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) - Lilian Weng's blog post detailing how to build autonomous agents with large language models (LLMs) as the core brain, and exploring three key components of such systems: Planning, Memory, and Tool Use.
+2. [When AI builds itself](https://www.anthropic.com/institute/recursive-self-improvement) - This blog from Anthropic post explores the trend of self-evolution in artificial intelligence, pointing out that as AI systems become more capable, they increasingly participate in their own design and development. This not only accelerates technological progress but also suggests that "recursive self-improvement" AIs that can fully autonomously design their successors may arrive earlier than expected, bringing both tremendous opportunities and potential risks.
+3. [Meta-Harness](https://github.com/stanford-iris-lab/meta-harness) - Reference code for Meta-Harness, a method for searching agent harnesses under expensive evaluation.
+4. [AutoScientists](https://github.com/mims-harvard/AutoScientists) - A long-running scientific experimentation framework built around self-organizing multi-agent teams.
+5. [DeepScientist](https://github.com/ResearAI/DeepScientist) - A local-first autonomous research studio that manages baselines, experiment rounds, memory, and paper-ready outputs.
+6. [evoscientist](https://github.com/EvoScientist/EvoScientist) - A self-evolving AI scientist project focused on iterative, agent-driven research workflows.
 
 ## Infrastructure for agent-friendly research
 
