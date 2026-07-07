@@ -138,6 +138,7 @@ Self-Improvement in the Real World (ENPIRE)，让机器人智能体在物理世�
 5. [Awesome-Vibe-Research](https://github.com/modelscope/Awesome-Vibe-Research) - 面向 AI 辅助科研的开放共建仓库, 收集和沉淀科研全流程中的 agents、skills、workflows、tools 与最佳实践
 6. [Awesome-AI-for-Research](https://github.com/THU-KEG/Awesome-AI-for-Research) - 
 THU-KEG 使用 AI 提升科研效率，拓展科研探索空间。从聚焦工具到参与并重塑科研流程的智能体。
+7. [Awesome-LLM-Scientific-Discovery](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) - 一个为科学发现精心搜集的大语言模型（LLM）资源列表，包含相关工具、数据集和论文。
 
 ## 维护说明
 
