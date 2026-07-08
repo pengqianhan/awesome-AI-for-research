@@ -117,6 +117,7 @@ Self-Improvement in the Real World (ENPIRE)，让机器人智能体在物理世�
 4. [ResearchClawBench](https://github.com/InternScience/ResearchClawBench) - ResearchClawBench 的 GitHub 仓库，包含相关基准实现和资源。
 5. [MLS-Bench](https://mls-bench.com/) - Machine Learning Science 基准，用于测试智能体是否能提出原子化、可泛化的 ML 科研贡献。
 6. [Autolab](https://github.com/autolabhq/autolab) - 面向前沿超长周期自主科研任务的评测基准。
+7. [NatureBench](https://frontisai.github.io/NatureBench/) - NatureBench 是一个科学机器学习基准，旨在评估代码智能体能否通过编写代码，复现甚至超越《自然》（Nature）系列期刊论文中公布的最先进（SOTA）实验结果。
 
 ## Papers collection
 
