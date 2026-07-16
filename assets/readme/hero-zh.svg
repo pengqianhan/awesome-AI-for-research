@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">Awesome AI for Research</title>
+  <desc id="desc">持续整理 AI 科研系统、基础设施、评测基准与阅读资料的开放图谱。</desc>
+
+  <rect width="1200" height="400" rx="28" fill="#07111F"/>
+  <path d="M0 310H1200M704 0V400" stroke="#243448" stroke-width="1"/>
+
+  <g fill="none" stroke="#243448" stroke-width="1">
+    <path d="M760 72H1144V328H760Z"/>
+    <path d="M760 200H1144M952 72V328"/>
+    <circle cx="952" cy="200" r="104"/>
+    <circle cx="952" cy="200" r="54"/>
+  </g>
+
+  <g transform="translate(64 54)">
+    <text x="0" y="0" fill="#4CC9F0" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" font-weight="700" letter-spacing="2">开放科研索引 · AI4RESEARCH</text>
+    <text x="0" y="82" fill="#F5F7FA" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="62" font-weight="760">Awesome AI</text>
+    <text x="0" y="148" fill="#F5F7FA" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="62" font-weight="760">for Research</text>
+    <text x="0" y="208" fill="#AAB8C8" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="22">追踪 AI 驱动科研与科学发现的持续演进图谱。</text>
+    <g transform="translate(0 274)" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="14" font-weight="650">
+      <text x="0" y="0" fill="#F5F7FA">科研系统</text>
+      <text x="74" y="0" fill="#6F8298">/</text>
+      <text x="98" y="0" fill="#F5F7FA">基础设施</text>
+      <text x="172" y="0" fill="#6F8298">/</text>
+      <text x="196" y="0" fill="#F5F7FA">评测基准</text>
+      <text x="270" y="0" fill="#6F8298">/</text>
+      <text x="294" y="0" fill="#F5F7FA">论文与资料</text>
+    </g>
+  </g>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif">
+    <path d="M851 128L913 171M1054 128L991 171M851 272L913 229M1054 272L991 229" fill="none" stroke="#4CC9F0" stroke-width="2"/>
+    <circle cx="952" cy="200" r="39" fill="#102337" stroke="#4CC9F0" stroke-width="2"/>
+    <text x="952" y="196" text-anchor="middle" fill="#F5F7FA" font-size="14" font-weight="700">科研</text>
+    <text x="952" y="216" text-anchor="middle" fill="#4CC9F0" font-size="12">图谱</text>
+
+    <g font-size="13" font-weight="700">
+      <circle cx="828" cy="112" r="7" fill="#4CC9F0"/>
+      <text x="844" y="117" fill="#F5F7FA">构想</text>
+      <circle cx="1076" cy="112" r="7" fill="#4CC9F0"/>
+      <text x="1060" y="117" text-anchor="end" fill="#F5F7FA">构建</text>
+      <circle cx="828" cy="288" r="7" fill="#4CC9F0"/>
+      <text x="844" y="293" fill="#F5F7FA">评测</text>
+      <circle cx="1076" cy="288" r="7" fill="#4CC9F0"/>
+      <text x="1060" y="293" text-anchor="end" fill="#F5F7FA">发现</text>
+    </g>
+
+    <g fill="#6F8298" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">
+      <text x="772" y="92">01</text>
+      <text x="1120" y="92">02</text>
+      <text x="772" y="316">03</text>
+      <text x="1120" y="316">04</text>
+    </g>
+  </g>
+</svg>

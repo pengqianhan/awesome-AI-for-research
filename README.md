@@ -1,29 +1,28 @@
-# Awesome AI for Research
+<p align="center">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Awesome AI for Research — a field map of AI systems, infrastructure, benchmarks, and papers for scientific discovery">
+</p>
 
-[English](README.md) | [Chinese](README_zh.md)
+<p align="center">
+  <a href="README.md"><strong>English</strong></a> ·
+  <a href="README_zh.md">简体中文</a> ·
+  <a href="#explore-the-map">Explore the map</a> ·
+  <a href="https://github.com/pengqianhan/awesome-AI-for-research/issues">Suggest a resource</a>
+</p>
 
-> A continuously updated collection of AI for Research / AI4Research projects, papers, infrastructure, and benchmarks for tracking the ecosystem, identifying pain points, and finding promising directions.
+> A living, bilingual index of projects and ideas shaping AI-powered research—from autonomous scientists and agent infrastructure to evaluation benchmarks and research-native artifacts.
 
-I often see articles and products that use AI directly for research, each with a different entry point. To understand the ecosystem more concretely, I am collecting the resources I come across and analyzing them to identify AI4Research pain points and directions worth pursuing.
+This repository is a field guide for understanding the AI4Research ecosystem. It organizes representative systems, papers, infrastructure, and benchmarks by the role they play in the research loop, making it easier to compare approaches, spot gaps, and find promising directions.
 
-## Table of Contents
+## Explore the map
 
-- <a href="#ai-scientist">AI Scientist</a>
-  - <a href="#api-based">API-based</a>
-  - <a href="#llms-combined-with-genetic-and-search-algorithms">LLMs combined with genetic and search algorithms</a>
-  - <a href="#research-systems-based-on-claude-code-or-codex">Research systems based on Claude Code or Codex</a>
-  - <a href="#skills">Skills</a>
-  - <a href="#heuristic-learning-using-claude-code-or-codex-as-optimizer">Heuristic Learning using Claude Code or Codex as optimizer</a>
-  - <a href="#autoresearch-related">Autoresearch related</a>
-  - <a href="#ai4llm">AI4LLM</a>
-  - <a href="#harness-engineering">Harness Engineering</a>
-  - <a href="#others--to-be-categorized">Others / To be categorized</a>
-- <a href="#infrastructure-for-agent-friendly-research">Infrastructure for agent-friendly research</a>
-- <a href="#benchmarks-for-research-agents">Benchmarks for research agents</a>
-- <a href="#papers-collection">Papers collection</a>
-- <a href="#xcode-series">xCode series</a>
-- <a href="#related-projects-and-resources">Related Projects and Resources</a>
-- <a href="#maintenance-notes">Maintenance notes</a>
+- **[AI Scientist](#ai-scientist)** — end-to-end research systems, coding-agent workflows, skills, evolutionary search, autoresearch, and self-improving harnesses.
+- **[Agent-friendly infrastructure](#infrastructure-for-agent-friendly-research)** — tools and formats that help agents read literature, access scientific knowledge, and preserve research artifacts.
+- **[Research-agent benchmarks](#benchmarks-for-research-agents)** — evaluations for replication, discovery, long-horizon experimentation, and scientific coding.
+- **[Papers](#paper-collections)** — focused reading collections on AI-enabled scientific discovery.
+- **[xCode series](#xcode-series)** — coding-agent projects adjacent to autonomous research workflows.
+- **[Related collections](#related-projects-and-resources)** — complementary awesome lists and ecosystem maps.
+
+<sub><strong>Scope.</strong> Entries are grouped by their primary role, even when a project spans multiple stages of the research lifecycle. Categories will evolve with the field.</sub>
 
 ## AI Scientist
 
@@ -120,7 +119,7 @@ Self-Improvement in the Real World (ENPIRE),where robotic agents autonomously ex
 6. [Autolab](https://github.com/autolabhq/autolab) - A benchmark for frontier ultra long-horizon autonomous research tasks.
 7. [NatureBench](https://frontisai.github.io/NatureBench/) - NatureBench is a scientific machine learning benchmark that evaluates whether coding agents can write code to reproduce or surpass the state-of-the-art (SOTA) experimental results published in Nature-family papers.
 
-## Papers collection
+## Paper collections
 
 1. [AI Discovery in the Wild (CAIS 2026 Workshop)](https://ai-discovery-in-the-wild.github.io/papers.html) - A CAIS 2026 workshop paper collection on AI agents for real-world scientific discovery.
 
@@ -130,7 +129,7 @@ Self-Improvement in the Real World (ENPIRE),where robotic agents autonomously ex
 2. [OpenCode](https://github.com/anomalyco/opencode) - An open-source coding agent for terminal-based software engineering workflows.
 3. [Kimi-Code](https://github.com/MoonshotAI/kimi-code) - Moonshot AI's Kimi Code CLI for next-generation coding-agent workflows.
 
-## Related Projects and Resources
+## Related projects and resources
 
 1. [Awesome-Autoresearch](https://github.com/alvinreal/awesome-autoresearch) - A curated list of autonomous improvement loops, research agents, and autoresearch-style systems.
 2. [Awesome-Auto-Research-Tools](https://github.com/handsome-rich/Awesome-Auto-Research-Tools) - A curated collection of automated research tools for literature search, paper reading, experiment management, and code generation.
@@ -142,7 +141,10 @@ Self-Improvement in the Real World (ENPIRE),where robotic agents autonomously ex
 8. [NatureBench](https://frontisai.github.io/NatureBench/) - NatureBench is a scientific machine learning benchmark that evaluates whether coding agents can write code to reproduce or surpass the state-of-the-art (SOTA) experimental results published in Nature-family papers.
 9. [Awesome AI for Science](https://github.com/ai4s-research/awesome-ai-for-science) - A curated collection of AI tools, libraries, papers, datasets, and frameworks for scientific discovery across disciplines.
 
-## Maintenance notes
+## Contributing and maintenance
 
-- The current categories will continue to evolve, and more representative work will be added to each category over time.
-- When new categories are needed, the priority is to keep entries clear, searchable, and easy to compare.
+Suggestions are welcome through [GitHub Issues](https://github.com/pengqianhan/awesome-AI-for-research/issues). When proposing a resource, include its canonical link and a short note explaining how it contributes to AI-enabled research.
+
+- Categories are intentionally flexible and will evolve as the ecosystem changes.
+- Entries should be concrete, searchable, and useful for comparing approaches.
+- Representative systems and primary sources are preferred over promotional roundups.

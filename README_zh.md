@@ -1,31 +1,30 @@
-# Awesome AI for Research
+<p align="center">
+  <img src="./assets/readme/hero-zh.svg" width="100%" alt="Awesome AI for Research——面向 AI 科研系统、基础设施、评测基准与论文资料的开放图谱">
+</p>
 
-[英文](README.md) | [中文](README_zh.md)
+<p align="center">
+  <a href="README.md">English</a> ·
+  <a href="README_zh.md"><strong>简体中文</strong></a> ·
+  <a href="#探索图谱">探索图谱</a> ·
+  <a href="https://github.com/pengqianhan/awesome-AI-for-research/issues">推荐资源</a>
+</p>
 
-> 持续整理 AI for Research / AI4Research 相关项目、论文、基础设施与基准，用于观察生态、定位痛点和发现可做方向。
+> 一个持续更新的双语 AI 科研索引：从自主科学家、智能体基础设施和评测基准，到面向智能体的研究成果形态，追踪 AI 驱动科研的真实进展。
 
-经常看到有的文章或者产品，是用 AI 来直接做 research，切入点各有不同。为了了解这个领域具体的生态，我准备整理我看到的资料，然后进行分析，从而找到 AI4Research 的痛点和可做的方向。
+这个仓库是一份 AI4Research 生态指南。它按照各类项目在科研循环中的主要作用，整理有代表性的系统、论文、基础设施与基准，帮助读者比较不同路线、发现生态空白，并寻找值得继续探索的方向。
 
-## 目录
+## 探索图谱
 
-- <a href="#ai-scientist">AI-scientist</a>
-  - <a href="#基于-api">基于 API</a>
-  - <a href="#遗传算法和搜索算法结合-llm">遗传算法和搜索算法结合 LLM</a>
-  - <a href="#基于-claude-code-或-codex-的科研系统">基于 Claude Code 或 Codex 的科研系统</a>
-  - <a href="#skills">Skills</a>
-  - <a href="#heuristic-learning-using-claude-code-or-codex-as-optimizer">Heuristic Learning using Claude Code or Codex as optimizer</a>
-  - <a href="#autoresearch-related">Autoresearch related</a>
-  - <a href="#ai4llm">AI4LLM</a>
-  - <a href="#harness-engineering">Harness Engineering</a>
-  - <a href="#others--待分类">Others / 待分类</a>
-- <a href="#infrastructure-for-agent-friendly-research">Infrastructure for agent friendly research</a>
-- <a href="#benchmark-for-the-research-agent">Benchmark for the research agent</a>
-- <a href="#papers-collection">Papers collection</a>
-- <a href="#xcode-series">xCode series</a>
-- <a href="#related-projects-and-resources">Related Projects and Resources</a>
-- <a href="#维护说明">维护说明</a>
+- **[AI Scientist](#ai-scientist)** — 端到端科研系统、编码智能体工作流、技能、进化搜索、autoresearch 与自改进 harness。
+- **[智能体友好型基础设施](#智能体友好型科研基础设施)** — 帮助智能体读取文献、访问科学知识并保存研究过程与成果的工具和格式。
+- **[科研智能体评测](#科研智能体评测基准)** — 覆盖论文复现、科学发现、长期实验与科学编程的评测基准。
+- **[论文合集](#论文合集)** — 聚焦 AI 驱动科学发现的主题阅读资料。
+- **[xCode 系列](#xcode-系列)** — 与自主科研工作流相邻的编码智能体项目。
+- **[相关项目与资源](#相关项目与资源)** — 互补的精选列表与生态图谱。
 
-## AI-scientist
+<sub><strong>收录范围。</strong> 一个项目可能覆盖科研生命周期的多个阶段；这里按其主要作用归类，分类会随领域发展持续调整。</sub>
+
+## AI Scientist
 
 ### 基于 API
 
@@ -86,7 +85,7 @@ Self-Improvement in the Real World (ENPIRE)，让机器人智能体在物理世�
 5. [DeepScientist](https://github.com/ResearAI/DeepScientist) - 本地优先的自主科研工作室，管理 baseline、实验轮次、记忆和论文级输出。
 6. [evoscientist](https://github.com/EvoScientist/EvoScientist) - 自进化 AI 科学家项目，关注迭代式、智能体驱动的研究流程。
 
-## Infrastructure for agent friendly research
+## 智能体友好型科研基础设施
 
 1. [Hugging Face Hub CLI](https://huggingface.co/docs/huggingface_hub/en/guides/cli) - Hugging Face Hub 命令行工具，用于管理模型、数据集和 Spaces，支持智能体友好的科研工作流。`hf papers read` 可将 Hugging Face Hub 上的论文读取为 Markdown。
 
@@ -110,7 +109,7 @@ Self-Improvement in the Real World (ENPIRE)，让机器人智能体在物理世�
 10. [OKF](https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/okf) - 一个开源的知识库格式，用于存储和检索科学知识。
 11. [ModernTSF](https://github.com/Diaugeia/ModernTSF/tree/main) - 面向时间序列预测的 AI Infrastructure —— 而不只是又一个工具包。 一个统一、可复现的底座，让人和 Agent 都把时间花在创新 idea 上， 而不是它周围的各种胶水工作
 12. [Sciverse](http://sciverse.space/docs#overview) - 一个面向 agentic research papers 的平台。
-## Benchmark for the research agent
+## 科研智能体评测基准
 
 1. [PaperBench](https://github.com/paperbench/paperbench) - 用于评估智能体从零复现 AI 研究论文能力的基准；当前列出的 GitHub URL 可能需要核对。
 2. [ResearchClawBench](https://internscience.github.io/ResearchClawBench-Home/) - 用于评估 AI 智能体自动科研能力的基准，覆盖从 rediscovery 到 new discovery 的任务。
@@ -120,17 +119,17 @@ Self-Improvement in the Real World (ENPIRE)，让机器人智能体在物理世�
 6. [Autolab](https://github.com/autolabhq/autolab) - 面向前沿超长周期自主科研任务的评测基准。
 7. [NatureBench](https://frontisai.github.io/NatureBench/) - NatureBench 是一个科学机器学习基准，旨在评估代码智能体能否通过编写代码，复现甚至超越《自然》（Nature）系列期刊论文中公布的最先进（SOTA）实验结果。
 
-## Papers collection
+## 论文合集
 
 1. [AI Discovery in the Wild (CAIS 2026 Workshop)](https://ai-discovery-in-the-wild.github.io/papers.html) - CAIS 2026 研讨会论文合集，主题是面向真实科学发现的 AI 智能体。
 
-## xCode series
+## xCode 系列
 
 1. [MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - 小米 MiMo 的 coding-agent CLI，定位为下一代 agent 起点，并与 OpenCode 生态相关。
 2. [OpenCode](https://github.com/anomalyco/opencode) - 开源 coding agent，用于终端中的软件工程工作流。
 3. [Kimi-Code](https://github.com/MoonshotAI/kimi-code) - Moonshot AI 的 Kimi Code CLI，面向下一代 coding-agent 工作流。
 
-## Related Projects and Resources
+## 相关项目与资源
 
 1. [Awesome-Autoresearch](https://github.com/alvinreal/awesome-autoresearch) - 自主改进循环、research agents 和 autoresearch 风格系统的精选列表。
 2. [Awesome-Auto-Research-Tools](https://github.com/handsome-rich/Awesome-Auto-Research-Tools) - 自动化科研工具合集，覆盖文献搜索、论文阅读、实验管理和代码生成。
@@ -142,7 +141,10 @@ THU-KEG 使用 AI 提升科研效率，拓展科研探索空间。从聚焦工�
 7. [Awesome-LLM-Scientific-Discovery](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) - 一个为科学发现精心搜集的大语言模型（LLM）资源列表，包含相关工具、数据集和论文。
 8. [Awesome AI for Science](https://github.com/ai4s-research/awesome-ai-for-science) - 面向跨学科科学发现的 AI 工具、库、论文、数据集和框架精选合集。
 
-## 维护说明
+## 贡献与维护
 
-- 当前分类会持续调整，后续会为每个类别补充更多代表性工作。
-- 如果有必要添加新的分类，会优先保证资源条目清晰、可检索、便于比较。
+欢迎通过 [GitHub Issues](https://github.com/pengqianhan/awesome-AI-for-research/issues) 推荐资源。提交时请附上项目的官方链接，并简要说明它如何服务于 AI 驱动科研。
+
+- 分类会随生态变化持续调整，不追求一成不变。
+- 资源条目应当具体、可检索，并便于横向比较。
+- 优先收录有代表性的系统与一手资料，而非宣传性汇总文章。
