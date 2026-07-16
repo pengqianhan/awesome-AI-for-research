@@ -140,6 +140,7 @@ Self-Improvement in the Real World (ENPIRE)，让机器人智能体在物理世�
 6. [Awesome-AI-for-Research](https://github.com/THU-KEG/Awesome-AI-for-Research) - 
 THU-KEG 使用 AI 提升科研效率，拓展科研探索空间。从聚焦工具到参与并重塑科研流程的智能体。
 7. [Awesome-LLM-Scientific-Discovery](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) - 一个为科学发现精心搜集的大语言模型（LLM）资源列表，包含相关工具、数据集和论文。
+8. [Awesome AI for Science](https://github.com/ai4s-research/awesome-ai-for-science) - 面向跨学科科学发现的 AI 工具、库、论文、数据集和框架精选合集。
 
 ## 维护说明
 

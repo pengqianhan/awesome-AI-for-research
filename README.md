@@ -140,6 +140,7 @@ Self-Improvement in the Real World (ENPIRE),where robotic agents autonomously ex
 6. [Awesome-AI-for-Research](https://github.com/THU-KEG/Awesome-AI-for-Research) - Use AI to improve research efficiency and expand the space of exploration. From focused tools to agents that participate in and reshape the research pipeline.
 7. [Awesome-LLM-Scientific-Discovery](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) - A curated list of LLMs for scientific discovery, including tools, datasets, and papers.
 8. [NatureBench](https://frontisai.github.io/NatureBench/) - NatureBench is a scientific machine learning benchmark that evaluates whether coding agents can write code to reproduce or surpass the state-of-the-art (SOTA) experimental results published in Nature-family papers.
+9. [Awesome AI for Science](https://github.com/ai4s-research/awesome-ai-for-science) - A curated collection of AI tools, libraries, papers, datasets, and frameworks for scientific discovery across disciplines.
 
 ## Maintenance notes
 
