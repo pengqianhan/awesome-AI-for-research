@@ -30,9 +30,9 @@ This repository is a field guide for understanding the AI4Research ecosystem. It
 
 1. [AI Scientist](https://github.com/SakanaAI/AI-Scientist) [<!--stars:SakanaAI/AI-Scientist-->⭐&nbsp;14.2k<!--/stars-->](https://github.com/SakanaAI/AI-Scientist) and [AI Scientist v2](https://github.com/SakanaAI/AI-Scientist-v2/tree/main) [<!--stars:SakanaAI/AI-Scientist-v2-->⭐&nbsp;6.8k<!--/stars-->](https://github.com/SakanaAI/AI-Scientist-v2) - Automated scientific discovery systems that generate ideas, run experiments, and write papers; v2 adds agentic tree search for stronger workshop-level discovery.
 2. [AI Researcher (HKUDS)](https://github.com/HKUDS/AI-Researcher) [<!--stars:HKUDS/AI-Researcher-->⭐&nbsp;5.6k<!--/stars-->](https://github.com/HKUDS/AI-Researcher) - An autonomous scientific innovation system that supports end-to-end research ideation, experimentation, and paper generation.
-3. [Paperorchestra](https://yiwen-song.github.io/paper_orchestra/) - A multi-agent framework that turns sparse idea summaries and raw experiment logs into submission-ready AI research manuscripts.
-4. [PaperBanana](https://dwzhu-pku.github.io/PaperBanana/) - An agentic framework for generating publication-ready academic diagrams and statistical plots.
-5. [Scientist-One](https://scientist-one.github.io/) - ScientistOne autonomously generates research papers with verifiable evidence chains—every claim traces to code, data, or literature—while matching or exceeding human expert performance on frontier algorithm discovery tasks.
+3. [Paperorchestra](https://github.com/google-research/paper-orchestra) [<!--stars:google-research/paper-orchestra-->⭐&nbsp;86<!--/stars-->](https://github.com/google-research/paper-orchestra) - A multi-agent framework that turns sparse idea summaries and raw experiment logs into submission-ready AI research manuscripts.
+4. [PaperBanana](https://github.com/dwzhu-pku/PaperBanana) [<!--stars:dwzhu-pku/PaperBanana-->⭐&nbsp;6.8k<!--/stars-->](https://github.com/dwzhu-pku/PaperBanana) - An agentic framework for generating publication-ready academic diagrams and statistical plots.
+5. [Scientist-One](https://github.com/scientist-one/generated-artifacts) [<!--stars:scientist-one/generated-artifacts-->⭐&nbsp;35<!--/stars-->](https://github.com/scientist-one/generated-artifacts) - ScientistOne autonomously generates research papers with verifiable evidence chains—every claim traces to code, data, or literature—while matching or exceeding human expert performance on frontier algorithm discovery tasks.
 
 ### LLMs combined with genetic and search algorithms
 
@@ -56,18 +56,18 @@ This repository is a field guide for understanding the AI4Research ecosystem. It
 
 ### Heuristic Learning using Claude Code or Codex as optimizer
 
-1. [Learning Beyond Gradients](https://trinkle23897.github.io/learning-beyond-gradients/) - An essay proposing Heuristic Learning, where coding agents iteratively improve software policies and systems without gradient updates.
+1. [Learning Beyond Gradients](https://github.com/Trinkle23897/learning-beyond-gradients) [<!--stars:Trinkle23897/learning-beyond-gradients-->⭐&nbsp;594<!--/stars-->](https://github.com/Trinkle23897/learning-beyond-gradients) - An essay proposing Heuristic Learning, where coding agents iteratively improve software policies and systems without gradient updates.
 2. [HL-ImageNet](https://github.com/xisen-w/hl-imagenet) [<!--stars:xisen-w/hl-imagenet-->⭐&nbsp;65<!--/stars-->](https://github.com/xisen-w/hl-imagenet) - Experiments exploring Heuristic Learning on ImageNet-style visual recognition tasks.
 3. [Trajevo: Evolving SOTA Trajectory Prediction Heuristics with LLMs](https://github.com/ai4co/trajevo) [<!--stars:ai4co/trajevo-->⭐&nbsp;21<!--/stars-->](https://github.com/ai4co/trajevo) - An LLM-driven evolutionary framework for designing trajectory prediction heuristics.
-4. [PatchWorld: Learning Executable World Models without Gradients](https://bjx.fun/p/patchworld-learning-executable-world-models-without-gradients/) - A gradient-free framework that induces inspectable Python world models from offline trajectories through counterexample-guided code repair.
+4. [PatchWorld: Learning Executable World Models without Gradients](https://github.com/HKBU-KnowComp/PatchWorld) [<!--stars:HKBU-KnowComp/PatchWorld-->⭐&nbsp;6<!--/stars-->](https://github.com/HKBU-KnowComp/PatchWorld) - A gradient-free framework that induces inspectable Python world models from offline trajectories through counterexample-guided code repair.
 
 ### Autoresearch related
 
 1. [autoresearch](https://github.com/karpathy/autoresearch) [<!--stars:karpathy/autoresearch-->⭐&nbsp;91.3k<!--/stars-->](https://github.com/karpathy/autoresearch) - A minimal single-GPU nanochat research loop where an agent edits training code, runs bounded experiments, and keeps or reverts changes automatically.
-2. [Autoresearch Paradigm Fire](https://paragiri.com/blog/2026/autoresearch-paradigm-fire/) - A blog post about extending the autoresearch loop beyond a basic metric-optimization agent.
-3. [PrimeIntellect](https://www.primeintellect.ai/auto-nanogpt) - An autonomous nanoGPT speedrun study where Codex and Claude Code ran large-scale optimizer search on Prime Intellect compute.
+2. [Autoresearch Paradigm Fire](https://github.com/DeveshParagiri/ed-autoresearch) [<!--stars:DeveshParagiri/ed-autoresearch-->⭐&nbsp;0<!--/stars-->](https://github.com/DeveshParagiri/ed-autoresearch) - A blog post about extending the autoresearch loop beyond a basic metric-optimization agent.
+3. [PrimeIntellect](https://github.com/PrimeIntellect-ai/experiments-autonomous-speedrunning) [<!--stars:PrimeIntellect-ai/experiments-autonomous-speedrunning-->⭐&nbsp;106<!--/stars-->](https://github.com/PrimeIntellect-ai/experiments-autonomous-speedrunning) - An autonomous nanoGPT speedrun study where Codex and Claude Code ran large-scale optimizer search on Prime Intellect compute.
 4. [AutoScientists](https://github.com/mims-harvard/AutoScientists/tree/main) [<!--stars:mims-harvard/AutoScientists-->⭐&nbsp;698<!--/stars-->](https://github.com/mims-harvard/AutoScientists) - A framework for self-organizing agent teams that run long-horizon scientific experimentation.
-5. [DeLM](https://yuzhenmao.github.io/DeLM/) - A decentralized multi-agent framework where parallel agents coordinate through shared verified context and a task queue. (note: items 4 and 5 both use parallel agents to conduct research)
+5. [DeLM](https://github.com/yuzhenmao/DeLM) [<!--stars:yuzhenmao/DeLM-->⭐&nbsp;97<!--/stars-->](https://github.com/yuzhenmao/DeLM) - A decentralized multi-agent framework where parallel agents coordinate through shared verified context and a task queue. (note: items 4 and 5 both use parallel agents to conduct research)
 6. [ENPIRE](https://research.nvidia.com/labs/gear/enpire/#article-title) - Agentic Robot Policy
 Self-Improvement in the Real World (ENPIRE),where robotic agents autonomously experiment and improve themselves in the physical world to enhance performance.
 
@@ -87,7 +87,7 @@ Self-Improvement in the Real World (ENPIRE),where robotic agents autonomously ex
 
 ## Infrastructure for agent-friendly research
 
-1. [Hugging Face Hub CLI](https://huggingface.co/docs/huggingface_hub/en/guides/cli) - Hugging Face Hub CLI for managing models, datasets, and spaces, enabling agent-friendly research workflows. `hf papers read` reads a paper from the Hugging Face Hub as markdown.
+1. [Hugging Face Hub CLI](https://github.com/huggingface/huggingface_hub) [<!--stars:huggingface/huggingface_hub-->⭐&nbsp;3.7k<!--/stars-->](https://github.com/huggingface/huggingface_hub) - Hugging Face Hub CLI for managing models, datasets, and spaces, enabling agent-friendly research workflows. `hf papers read` reads a paper from the Hugging Face Hub as markdown.
 
    ```text
    Usage: hf papers read [OPTIONS] PAPER_ID
@@ -101,7 +101,7 @@ Self-Improvement in the Real World (ENPIRE),where robotic agents autonomously ex
 3. [DeepXiv SDK](https://github.com/DeepXiv/deepxiv_sdk) [<!--stars:DeepXiv/deepxiv_sdk-->⭐&nbsp;737<!--/stars-->](https://github.com/DeepXiv/deepxiv_sdk) - A Python package and AI agent interface for asking questions about arXiv papers.
 4. [arxiv2md](https://github.com/timf34/arxiv2md) [<!--stars:timf34/arxiv2md-->⭐&nbsp;189<!--/stars-->](https://github.com/timf34/arxiv2md) - Instead of parsing PDFs (slow, error-prone), arxiv2md parses the structured HTML that arXiv provides for newer papers. This means clean section boundaries, proper math (MathML → LaTeX), reliable tables, and fast processing — no OCR needed.
 5. [AI Method Evolution Map](https://intern-atlas.opendatalab.org.cn/#api) - A structured, queryable map of AI method evolution designed as scientific memory for agents.
-6. [The Last Human-Written Paper: Agent-Native Research Artifacts](https://www.orchestra-research.com/ara) - A proposal to replace flat papers with machine-native research artifacts that preserve logic, code, traces, and evidence.
+6. [The Last Human-Written Paper: Agent-Native Research Artifacts](https://github.com/Orchestra-Research/Agent-Native-Research-Artifact) [<!--stars:Orchestra-Research/Agent-Native-Research-Artifact-->⭐&nbsp;500<!--/stars-->](https://github.com/Orchestra-Research/Agent-Native-Research-Artifact) - A proposal to replace flat papers with machine-native research artifacts that preserve logic, code, traces, and evidence.
 7. [General Agent: A Self-Evolving, Synthetic Agent Environment](https://www.primeintellect.ai/blog/general-agent) - A synthetic agent environment that evolves its own task corpus to make agent training more diverse and difficult over time.
 8. [sepo: self-evolving repository that uses GitHub to manage long-horizon tasks](https://github.com/self-evolving/repo/tree/main) [<!--stars:self-evolving/repo-->⭐&nbsp;47<!--/stars-->](https://github.com/self-evolving/repo) - A GitHub-native agent template that uses issues, PRs, actions, branches, and repository memory to sustain long-horizon work.
 9. [AirXiv](https://airaxiv.com/) - An AI-driven open-access preprint platform for AI-generated and human-authored papers, with AI review support.
@@ -112,12 +112,11 @@ Self-Improvement in the Real World (ENPIRE),where robotic agents autonomously ex
 ## Benchmarks for research agents
 
 1. [PaperBench](https://github.com/paperbench/paperbench) - A benchmark for evaluating agents on replicating AI research papers from scratch; the listed GitHub URL may need verification.
-2. [ResearchClawBench](https://internscience.github.io/ResearchClawBench-Home/) - A benchmark for evaluating AI agents on automated research, from rediscovery to new discovery.
-3. [EinsteinArena](https://einsteinarena.com/) - An open arena where AI agents collaborate and compete on unsolved science and optimization problems.
-4. [ResearchClawBench](https://github.com/InternScience/ResearchClawBench) [<!--stars:InternScience/ResearchClawBench-->⭐&nbsp;216<!--/stars-->](https://github.com/InternScience/ResearchClawBench) - The GitHub repository for ResearchClawBench and related benchmark implementation resources.
-5. [MLS-Bench](https://mls-bench.com/) - A Machine Learning Science benchmark for testing whether agents can make atomic, generalizable ML research contributions.
-6. [Autolab](https://github.com/autolabhq/autolab) [<!--stars:autolabhq/autolab-->⭐&nbsp;156<!--/stars-->](https://github.com/autolabhq/autolab) - A benchmark for frontier ultra long-horizon autonomous research tasks.
-7. [NatureBench](https://frontisai.github.io/NatureBench/) - NatureBench is a scientific machine learning benchmark that evaluates whether coding agents can write code to reproduce or surpass the state-of-the-art (SOTA) experimental results published in Nature-family papers.
+2. [ResearchClawBench](https://github.com/InternScience/ResearchClawBench) [<!--stars:InternScience/ResearchClawBench-->⭐&nbsp;216<!--/stars-->](https://github.com/InternScience/ResearchClawBench) - A benchmark for evaluating AI agents on automated research, from rediscovery to new discovery.
+3. [EinsteinArena](https://github.com/vinid/einstein-arena) [<!--stars:vinid/einstein-arena-->⭐&nbsp;36<!--/stars-->](https://github.com/vinid/einstein-arena) - An open arena where AI agents collaborate and compete on unsolved science and optimization problems.
+4. [MLS-Bench](https://github.com/Imbernoulli/MLS-Bench) [<!--stars:Imbernoulli/MLS-Bench-->⭐&nbsp;66<!--/stars-->](https://github.com/Imbernoulli/MLS-Bench) - A Machine Learning Science benchmark for testing whether agents can make atomic, generalizable ML research contributions.
+5. [Autolab](https://github.com/autolabhq/autolab) [<!--stars:autolabhq/autolab-->⭐&nbsp;156<!--/stars-->](https://github.com/autolabhq/autolab) - A benchmark for frontier ultra long-horizon autonomous research tasks.
+6. [NatureBench](https://github.com/FrontisAI/NatureBench) [<!--stars:FrontisAI/NatureBench-->⭐&nbsp;73<!--/stars-->](https://github.com/FrontisAI/NatureBench) - NatureBench is a scientific machine learning benchmark that evaluates whether coding agents can write code to reproduce or surpass the state-of-the-art (SOTA) experimental results published in Nature-family papers.
 
 ## Paper collections
 
@@ -138,7 +137,7 @@ Self-Improvement in the Real World (ENPIRE),where robotic agents autonomously ex
 5. [Awesome-Vibe-Research](https://github.com/modelscope/Awesome-Vibe-Research) [<!--stars:modelscope/Awesome-Vibe-Research-->⭐&nbsp;357<!--/stars-->](https://github.com/modelscope/Awesome-Vibe-Research) - An open collaborative repository for AI-assisted research, collecting and distilling agents, skills, workflows, tools, and best practices across the research lifecycle.
 6. [Awesome-AI-for-Research](https://github.com/THU-KEG/Awesome-AI-for-Research) [<!--stars:THU-KEG/Awesome-AI-for-Research-->⭐&nbsp;107<!--/stars-->](https://github.com/THU-KEG/Awesome-AI-for-Research) - Use AI to improve research efficiency and expand the space of exploration. From focused tools to agents that participate in and reshape the research pipeline.
 7. [Awesome-LLM-Scientific-Discovery](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) [<!--stars:HKUST-KnowComp/Awesome-LLM-Scientific-Discovery-->⭐&nbsp;420<!--/stars-->](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) - A curated list of LLMs for scientific discovery, including tools, datasets, and papers.
-8. [NatureBench](https://frontisai.github.io/NatureBench/) - NatureBench is a scientific machine learning benchmark that evaluates whether coding agents can write code to reproduce or surpass the state-of-the-art (SOTA) experimental results published in Nature-family papers.
+8. [NatureBench](https://github.com/FrontisAI/NatureBench) [<!--stars:FrontisAI/NatureBench-->⭐&nbsp;73<!--/stars-->](https://github.com/FrontisAI/NatureBench) - NatureBench is a scientific machine learning benchmark that evaluates whether coding agents can write code to reproduce or surpass the state-of-the-art (SOTA) experimental results published in Nature-family papers.
 9. [Awesome AI for Science](https://github.com/ai4s-research/awesome-ai-for-science) [<!--stars:ai4s-research/awesome-ai-for-science-->⭐&nbsp;1.8k<!--/stars-->](https://github.com/ai4s-research/awesome-ai-for-science) - A curated collection of AI tools, libraries, papers, datasets, and frameworks for scientific discovery across disciplines.
 
 ## Contributing and maintenance

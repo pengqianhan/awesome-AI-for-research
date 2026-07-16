@@ -61,6 +61,9 @@ def add_missing_markers(text: str) -> tuple[str, int]:
         if not LIST_ITEM_RE.match(line):
             updated_lines.append(line)
             continue
+        if "may need verification" in line or "可能需要核对" in line:
+            updated_lines.append(line)
+            continue
 
         repos_with_markers = {match.group("repo").strip().lower() for match in STAR_RE.finditer(line)}
 
@@ -117,13 +120,20 @@ def fetch_stars_with_retry(repo: str, token: str | None) -> int | None:
     return None
 
 
-def refresh_markers(text: str, token: str | None, cache: dict[str, int | None]) -> tuple[str, int, int]:
+def refresh_markers(
+    text: str,
+    token: str | None,
+    cache: dict[str, int | None],
+    only_unresolved: bool = False,
+) -> tuple[str, int, int]:
     updated = 0
     unresolved = 0
 
     def replace(match: re.Match[str]) -> str:
         nonlocal updated, unresolved
         repo = match.group("repo").strip()
+        if only_unresolved and parse_existing_stars(match.group("label")) is not None:
+            return match.group(0)
         if repo not in cache:
             cache[repo] = fetch_stars_with_retry(repo, token)
         count = cache[repo]
@@ -151,6 +161,11 @@ def main() -> int:
         action="store_true",
         help="Only add missing markers; do not call the GitHub API.",
     )
+    parser.add_argument(
+        "--only-unresolved",
+        action="store_true",
+        help="Fetch markers that do not already contain a numeric Star count.",
+    )
     args = parser.parse_args()
 
     missing = [str(path) for path in README_PATHS if not path.exists()]
@@ -172,7 +187,12 @@ def main() -> int:
         if args.add_missing:
             text, added = add_missing_markers(text)
         if not args.offline:
-            text, updated, unresolved = refresh_markers(text, token, cache)
+            text, updated, unresolved = refresh_markers(
+                text,
+                token,
+                cache,
+                only_unresolved=args.only_unresolved,
+            )
 
         if text != original:
             path.write_text(text, encoding="utf-8")

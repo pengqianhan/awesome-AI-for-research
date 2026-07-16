@@ -30,9 +30,9 @@
 
 1. [AI-scientist](https://github.com/SakanaAI/AI-Scientist) [<!--stars:SakanaAI/AI-Scientist-->⭐&nbsp;14.2k<!--/stars-->](https://github.com/SakanaAI/AI-Scientist) and [AI-scientist v2](https://github.com/SakanaAI/AI-Scientist-v2/tree/main) [<!--stars:SakanaAI/AI-Scientist-v2-->⭐&nbsp;6.8k<!--/stars-->](https://github.com/SakanaAI/AI-Scientist-v2) - 自动化科研发现系统，覆盖想法生成、实验执行和论文写作；v2 进一步引入 agentic tree search，面向更强的 workshop 级科学发现。
 2. [AI-Researcher(HKUDS)](https://github.com/HKUDS/AI-Researcher) [<!--stars:HKUDS/AI-Researcher-->⭐&nbsp;5.6k<!--/stars-->](https://github.com/HKUDS/AI-Researcher) - 面向自主科学创新的系统，支持从研究构想到实验和论文生成的端到端流程。
-3. [Paperorchestra](https://yiwen-song.github.io/paper_orchestra/) - 多智能体论文写作框架，可把稀疏想法摘要和原始实验日志转成接近投稿状态的 AI 研究论文。
-4. [PaperBanana](https://dwzhu-pku.github.io/PaperBanana/) - 面向 AI 科学家的学术插图生成框架，用于自动生成论文级方法图和统计图。
-5. [Scientist-One](https://scientist-one.github.io/) - ScientistOne 能够自主生成具备可验证证据链的研究论文——其每一项主张均可追溯至代码、数据或文献——同时在前沿算法发现任务上，达到甚至超越人类专家的水平。
+3. [Paperorchestra](https://github.com/google-research/paper-orchestra) [<!--stars:google-research/paper-orchestra-->⭐&nbsp;86<!--/stars-->](https://github.com/google-research/paper-orchestra) - 多智能体论文写作框架，可把稀疏想法摘要和原始实验日志转成接近投稿状态的 AI 研究论文。
+4. [PaperBanana](https://github.com/dwzhu-pku/PaperBanana) [<!--stars:dwzhu-pku/PaperBanana-->⭐&nbsp;6.8k<!--/stars-->](https://github.com/dwzhu-pku/PaperBanana) - 面向 AI 科学家的学术插图生成框架，用于自动生成论文级方法图和统计图。
+5. [Scientist-One](https://github.com/scientist-one/generated-artifacts) [<!--stars:scientist-one/generated-artifacts-->⭐&nbsp;35<!--/stars-->](https://github.com/scientist-one/generated-artifacts) - ScientistOne 能够自主生成具备可验证证据链的研究论文——其每一项主张均可追溯至代码、数据或文献——同时在前沿算法发现任务上，达到甚至超越人类专家的水平。
 
 ### 遗传算法和搜索算法结合 LLM
 
@@ -56,18 +56,18 @@
 
 ### Heuristic Learning using Claude Code or Codex as optimizer
 
-1. [Learning Beyond Gradients](https://trinkle23897.github.io/learning-beyond-gradients/) - 提出 Heuristic Learning 的长文，讨论编码智能体如何在不更新梯度的情况下持续改进软件策略和系统。
+1. [Learning Beyond Gradients](https://github.com/Trinkle23897/learning-beyond-gradients) [<!--stars:Trinkle23897/learning-beyond-gradients-->⭐&nbsp;594<!--/stars-->](https://github.com/Trinkle23897/learning-beyond-gradients) - 提出 Heuristic Learning 的长文，讨论编码智能体如何在不更新梯度的情况下持续改进软件策略和系统。
 2. [HL-ImageNet](https://github.com/xisen-w/hl-imagenet) [<!--stars:xisen-w/hl-imagenet-->⭐&nbsp;65<!--/stars-->](https://github.com/xisen-w/hl-imagenet) - 在 ImageNet 风格视觉识别任务上探索 Heuristic Learning 的实验项目。
 3. [Trajevo(Evolving SOTA Trajectory Prediction Heuristics with LLMs)](https://github.com/ai4co/trajevo) [<!--stars:ai4co/trajevo-->⭐&nbsp;21<!--/stars-->](https://github.com/ai4co/trajevo) - 使用 LLM 驱动的进化流程来设计轨迹预测启发式方法。
-4. [PatchWorld: Learning Executable World Models without Gradients](https://bjx.fun/p/patchworld-learning-executable-world-models-without-gradients/) - 无梯度框架，通过反例驱动的代码修复，从离线轨迹中归纳可检查的 Python 世界模型。
+4. [PatchWorld: Learning Executable World Models without Gradients](https://github.com/HKBU-KnowComp/PatchWorld) [<!--stars:HKBU-KnowComp/PatchWorld-->⭐&nbsp;6<!--/stars-->](https://github.com/HKBU-KnowComp/PatchWorld) - 无梯度框架，通过反例驱动的代码修复，从离线轨迹中归纳可检查的 Python 世界模型。
 
 ### Autoresearch related
 
 1. [autoresearch](https://github.com/karpathy/autoresearch) [<!--stars:karpathy/autoresearch-->⭐&nbsp;91.3k<!--/stars-->](https://github.com/karpathy/autoresearch) - 极简单卡 nanochat 研究循环，让智能体编辑训练代码、运行限时实验，并自动保留或回滚改动。
-2. [Autoresearch Paradigm Fire](https://paragiri.com/blog/2026/autoresearch-paradigm-fire/) - 关于扩展 autoresearch 循环的文章，讨论如何超越基础的指标优化智能体。
-3. [PrimeIntellect](https://www.primeintellect.ai/auto-nanogpt) - Prime Intellect 的自主 nanoGPT speedrun 实验，让 Codex 和 Claude Code 在大规模算力上搜索优化器方案。
+2. [Autoresearch Paradigm Fire](https://github.com/DeveshParagiri/ed-autoresearch) [<!--stars:DeveshParagiri/ed-autoresearch-->⭐&nbsp;0<!--/stars-->](https://github.com/DeveshParagiri/ed-autoresearch) - 关于扩展 autoresearch 循环的文章，讨论如何超越基础的指标优化智能体。
+3. [PrimeIntellect](https://github.com/PrimeIntellect-ai/experiments-autonomous-speedrunning) [<!--stars:PrimeIntellect-ai/experiments-autonomous-speedrunning-->⭐&nbsp;106<!--/stars-->](https://github.com/PrimeIntellect-ai/experiments-autonomous-speedrunning) - Prime Intellect 的自主 nanoGPT speedrun 实验，让 Codex 和 Claude Code 在大规模算力上搜索优化器方案。
 4. [AutoScientists](https://github.com/mims-harvard/AutoScientists/tree/main) [<!--stars:mims-harvard/AutoScientists-->⭐&nbsp;698<!--/stars-->](https://github.com/mims-harvard/AutoScientists) - 面向长期科学实验的自组织多智能体团队框架。
-5. [DeLM](https://yuzhenmao.github.io/DeLM/) - 去中心化多智能体框架，让并行智能体通过共享的已验证上下文和任务队列协作。（注：第 4 和第 5 项都使用并行智能体开展研究）
+5. [DeLM](https://github.com/yuzhenmao/DeLM) [<!--stars:yuzhenmao/DeLM-->⭐&nbsp;97<!--/stars-->](https://github.com/yuzhenmao/DeLM) - 去中心化多智能体框架，让并行智能体通过共享的已验证上下文和任务队列协作。（注：第 4 和第 5 项都使用并行智能体开展研究）
 6. [ENPIRE](https://research.nvidia.com/labs/gear/enpire/#article-title) - Agentic Robot Policy
 Self-Improvement in the Real World (ENPIRE)，让机器人智能体在物理世界中通过自主实验和改进来提升性能。
 
@@ -87,7 +87,7 @@ Self-Improvement in the Real World (ENPIRE)，让机器人智能体在物理世�
 
 ## 智能体友好型科研基础设施
 
-1. [Hugging Face Hub CLI](https://huggingface.co/docs/huggingface_hub/en/guides/cli) - Hugging Face Hub 命令行工具，用于管理模型、数据集和 Spaces，支持智能体友好的科研工作流。`hf papers read` 可将 Hugging Face Hub 上的论文读取为 Markdown。
+1. [Hugging Face Hub CLI](https://github.com/huggingface/huggingface_hub) [<!--stars:huggingface/huggingface_hub-->⭐&nbsp;3.7k<!--/stars-->](https://github.com/huggingface/huggingface_hub) - Hugging Face Hub 命令行工具，用于管理模型、数据集和 Spaces，支持智能体友好的科研工作流。`hf papers read` 可将 Hugging Face Hub 上的论文读取为 Markdown。
 
    ```text
    Usage: hf papers read [OPTIONS] PAPER_ID
@@ -102,7 +102,7 @@ Self-Improvement in the Real World (ENPIRE)，让机器人智能体在物理世�
 3. [DeepXiv SDK](https://github.com/DeepXiv/deepxiv_sdk) [<!--stars:DeepXiv/deepxiv_sdk-->⭐&nbsp;737<!--/stars-->](https://github.com/DeepXiv/deepxiv_sdk) - 用于和 arXiv 论文对话的 Python 包与 AI agent 接口。
 4. [arxiv2md](https://github.com/timf34/arxiv2md) [<!--stars:timf34/arxiv2md-->⭐&nbsp;189<!--/stars-->](https://github.com/timf34/arxiv2md) - 代替解析 PDF（慢且容易出错），arxiv2md 解析 arXiv 为新论文提供的结构化 HTML。这意味着清晰的章节边界、正确的数学公式（MathML → LaTeX）、可靠的表格和快速处理——无需 OCR。
 5. [AI 方法演化图谱](https://intern-atlas.opendatalab.org.cn/#api) - 面向智能体的结构化、可查询 AI 方法演化图谱，可作为科学记忆层。
-6. [The Last Human-Written Paper Agent-Native Research Artifacts](https://www.orchestra-research.com/ara) - 提出用机器原生研究 artifact 替代扁平论文，保留逻辑、代码、探索轨迹和证据。
+6. [The Last Human-Written Paper Agent-Native Research Artifacts](https://github.com/Orchestra-Research/Agent-Native-Research-Artifact) [<!--stars:Orchestra-Research/Agent-Native-Research-Artifact-->⭐&nbsp;500<!--/stars-->](https://github.com/Orchestra-Research/Agent-Native-Research-Artifact) - 提出用机器原生研究 artifact 替代扁平论文，保留逻辑、代码、探索轨迹和证据。
 7. [General Agent: A Self-Evolving, Synthetic Agent Environment](https://www.primeintellect.ai/blog/general-agent) - 自进化合成智能体环境，通过持续扩展任务语料来提升 agent 训练的多样性和难度。
 8. [sepo: self-evolving repository(use GitHub to manage long-horizon tasks)](https://github.com/self-evolving/repo/tree/main) [<!--stars:self-evolving/repo-->⭐&nbsp;47<!--/stars-->](https://github.com/self-evolving/repo) - GitHub-native agent 模板，用 issue、PR、Actions、分支和仓库记忆承载长期任务。
 9. [AirXiv](https://airaxiv.com/) - 面向 AI 生成论文和人类论文的 AI 驱动开放预印本平台，并提供 AI 评审支持。
@@ -112,12 +112,11 @@ Self-Improvement in the Real World (ENPIRE)，让机器人智能体在物理世�
 ## 科研智能体评测基准
 
 1. [PaperBench](https://github.com/paperbench/paperbench) - 用于评估智能体从零复现 AI 研究论文能力的基准；当前列出的 GitHub URL 可能需要核对。
-2. [ResearchClawBench](https://internscience.github.io/ResearchClawBench-Home/) - 用于评估 AI 智能体自动科研能力的基准，覆盖从 rediscovery 到 new discovery 的任务。
-3. [EinsteinArena](https://einsteinarena.com/) - 开放竞技场，让 AI 智能体围绕未解决科学和优化问题协作、竞争并提交解法。
-4. [ResearchClawBench](https://github.com/InternScience/ResearchClawBench) [<!--stars:InternScience/ResearchClawBench-->⭐&nbsp;216<!--/stars-->](https://github.com/InternScience/ResearchClawBench) - ResearchClawBench 的 GitHub 仓库，包含相关基准实现和资源。
-5. [MLS-Bench](https://mls-bench.com/) - Machine Learning Science 基准，用于测试智能体是否能提出原子化、可泛化的 ML 科研贡献。
-6. [Autolab](https://github.com/autolabhq/autolab) [<!--stars:autolabhq/autolab-->⭐&nbsp;156<!--/stars-->](https://github.com/autolabhq/autolab) - 面向前沿超长周期自主科研任务的评测基准。
-7. [NatureBench](https://frontisai.github.io/NatureBench/) - NatureBench 是一个科学机器学习基准，旨在评估代码智能体能否通过编写代码，复现甚至超越《自然》（Nature）系列期刊论文中公布的最先进（SOTA）实验结果。
+2. [ResearchClawBench](https://github.com/InternScience/ResearchClawBench) [<!--stars:InternScience/ResearchClawBench-->⭐&nbsp;216<!--/stars-->](https://github.com/InternScience/ResearchClawBench) - 用于评估 AI 智能体自动科研能力的基准，覆盖从 rediscovery 到 new discovery 的任务。
+3. [EinsteinArena](https://github.com/vinid/einstein-arena) [<!--stars:vinid/einstein-arena-->⭐&nbsp;36<!--/stars-->](https://github.com/vinid/einstein-arena) - 开放竞技场，让 AI 智能体围绕未解决科学和优化问题协作、竞争并提交解法。
+4. [MLS-Bench](https://github.com/Imbernoulli/MLS-Bench) [<!--stars:Imbernoulli/MLS-Bench-->⭐&nbsp;66<!--/stars-->](https://github.com/Imbernoulli/MLS-Bench) - Machine Learning Science 基准，用于测试智能体是否能提出原子化、可泛化的 ML 科研贡献。
+5. [Autolab](https://github.com/autolabhq/autolab) [<!--stars:autolabhq/autolab-->⭐&nbsp;156<!--/stars-->](https://github.com/autolabhq/autolab) - 面向前沿超长周期自主科研任务的评测基准。
+6. [NatureBench](https://github.com/FrontisAI/NatureBench) [<!--stars:FrontisAI/NatureBench-->⭐&nbsp;73<!--/stars-->](https://github.com/FrontisAI/NatureBench) - NatureBench 是一个科学机器学习基准，旨在评估代码智能体能否通过编写代码，复现甚至超越《自然》（Nature）系列期刊论文中公布的最先进（SOTA）实验结果。
 
 ## 论文合集
 

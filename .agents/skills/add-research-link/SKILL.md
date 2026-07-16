@@ -12,6 +12,7 @@ description: Add a new AI-for-research project or resource URL to this repositor
 3. Fetch the linked source before writing:
    - For GitHub repositories, use the GitHub API or page metadata and prefer the repository description plus README summary.
    - For project pages, papers, blogs, benchmarks, or workshops, use the page title, abstract/intro, and meta description.
+   - If a project page links to one clearly official GitHub repository, use that canonical repository URL for the README entry. Ignore dependencies, examples, website-template sources, and unrelated outbound repositories. Keep the project-page URL when ownership is ambiguous or no official repository is linked.
    - If the URL is unreachable, search the exact title or repo path before falling back to a cautious description.
 4. Derive:
    - `name_en`: concise official English display name.
