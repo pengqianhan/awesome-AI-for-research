@@ -11,10 +11,26 @@ from pathlib import Path
 
 LIST_RE = re.compile(r"^(\d+)\.\s+")
 HEADING_RE = re.compile(r"^(#{2,6})\s+(.+?)\s*$")
+GITHUB_REPO_RE = re.compile(
+    r"^https://github\.com/(?P<owner>[^/\s]+)/(?P<name>[^/\s#?]+)"
+)
 
 
 def clean(value: str) -> str:
     return " ".join(value.strip().split())
+
+
+def github_star_link(url: str) -> str:
+    match = GITHUB_REPO_RE.match(clean(url))
+    if not match:
+        return ""
+    owner = match.group("owner")
+    name = match.group("name").removesuffix(".git")
+    repo = f"{owner}/{name}"
+    return (
+        f" [<!--stars:{repo}-->⭐&nbsp;updating<!--/stars-->]"
+        f"(https://github.com/{repo})"
+    )
 
 
 def find_section(lines: list[str], title: str) -> tuple[int, int, int]:
@@ -58,7 +74,11 @@ def insert_entry(path: Path, section: str, name: str, url: str, desc: str, dry_r
             last_item = index
             last_number = int(match.group(1))
 
-    entry = f"{last_number + 1}. [{clean(name)}]({clean(url)}) - {clean(desc)}"
+    cleaned_url = clean(url)
+    entry = (
+        f"{last_number + 1}. [{clean(name)}]({cleaned_url})"
+        f"{github_star_link(cleaned_url)} - {clean(desc)}"
+    )
 
     if last_item != -1:
         insert_at = last_item + 1

@@ -1,0 +1,52 @@
+name: Update GitHub star counts
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "README.md"
+      - "README_zh.md"
+      - "scripts/update_stars.py"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-github-stars
+  cancel-in-progress: false
+
+jobs:
+  update-stars:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Refresh clickable star counts
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_stars.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git add README.md README_zh.md
+          git commit -m "chore: update GitHub star counts"
+          git push

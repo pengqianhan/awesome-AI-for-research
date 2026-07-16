@@ -1,4 +1,4 @@
 interface:
   display_name: "Add Research Link"
-  short_description: "Add AI research links to both READMEs"
-  default_prompt: "Use $add-research-link to add this URL to the awesome AI research lists."
+  short_description: "Add bilingual research links with live GitHub Stars"
+  default_prompt: "Use $add-research-link to add this research URL to both lists with a clickable GitHub Star count when available."
