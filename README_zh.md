@@ -66,7 +66,7 @@
 1. [autoresearch](https://github.com/karpathy/autoresearch) [<!--stars:karpathy/autoresearch-->⭐&nbsp;91.3k<!--/stars-->](https://github.com/karpathy/autoresearch) - 极简单卡 nanochat 研究循环，让智能体编辑训练代码、运行限时实验，并自动保留或回滚改动。
 2. [Autoresearch Paradigm Fire](https://paragiri.com/blog/2026/autoresearch-paradigm-fire/) - 关于扩展 autoresearch 循环的文章，讨论如何超越基础的指标优化智能体。
 3. [PrimeIntellect](https://www.primeintellect.ai/auto-nanogpt) - Prime Intellect 的自主 nanoGPT speedrun 实验，让 Codex 和 Claude Code 在大规模算力上搜索优化器方案。
-4. [AutoScientists](https://github.com/mims-harvard/AutoScientists/tree/main) [<!--stars:mims-harvard/AutoScientists-->⭐&nbsp;697<!--/stars-->](https://github.com/mims-harvard/AutoScientists) - 面向长期科学实验的自组织多智能体团队框架。
+4. [AutoScientists](https://github.com/mims-harvard/AutoScientists/tree/main) [<!--stars:mims-harvard/AutoScientists-->⭐&nbsp;698<!--/stars-->](https://github.com/mims-harvard/AutoScientists) - 面向长期科学实验的自组织多智能体团队框架。
 5. [DeLM](https://yuzhenmao.github.io/DeLM/) - 去中心化多智能体框架，让并行智能体通过共享的已验证上下文和任务队列协作。（注：第 4 和第 5 项都使用并行智能体开展研究）
 6. [ENPIRE](https://research.nvidia.com/labs/gear/enpire/#article-title) - Agentic Robot Policy
 Self-Improvement in the Real World (ENPIRE)，让机器人智能体在物理世界中通过自主实验和改进来提升性能。
@@ -81,7 +81,7 @@ Self-Improvement in the Real World (ENPIRE)，让机器人智能体在物理世�
 1. [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) - Lilian Weng 的博客，这篇博客详细介绍了如何以大型语言模型（LLM）作为核心大脑来构建自主代理（Autonomous Agents），并深入探讨了实现该系统的三大关键组件：任务规划（Planning）、记忆机制（Memory）和工具使用（Tool Use）。
 2. [When AI builds itself](https://www.anthropic.com/institute/recursive-self-improvement) - 这篇博客探讨了人工智能发展中的自我进化趋势，指出随着AI系统能力的提升，它们越来越多地参与到自身的设计与开发中，这不仅加速了技术进步，也预示着能够完全自主设计其继任者的“递归自我改进”AI可能比预期更早到来，从而带来巨大的机遇与潜在风险。
 3. [Meta-Harness](https://github.com/stanford-iris-lab/meta-harness) [<!--stars:stanford-iris-lab/meta-harness-->⭐&nbsp;1.3k<!--/stars-->](https://github.com/stanford-iris-lab/meta-harness) - Meta-Harness 论文的参考代码，用于在昂贵评估条件下搜索 agent harness。
-4. [AutoScientists](https://github.com/mims-harvard/AutoScientists) [<!--stars:mims-harvard/AutoScientists-->⭐&nbsp;697<!--/stars-->](https://github.com/mims-harvard/AutoScientists) - 基于自组织多智能体团队的长期科学实验框架。
+4. [AutoScientists](https://github.com/mims-harvard/AutoScientists) [<!--stars:mims-harvard/AutoScientists-->⭐&nbsp;698<!--/stars-->](https://github.com/mims-harvard/AutoScientists) - 基于自组织多智能体团队的长期科学实验框架。
 5. [DeepScientist](https://github.com/ResearAI/DeepScientist) [<!--stars:ResearAI/DeepScientist-->⭐&nbsp;3.2k<!--/stars-->](https://github.com/ResearAI/DeepScientist) - 本地优先的自主科研工作室，管理 baseline、实验轮次、记忆和论文级输出。
 6. [evoscientist](https://github.com/EvoScientist/EvoScientist) [<!--stars:EvoScientist/EvoScientist-->⭐&nbsp;4.2k<!--/stars-->](https://github.com/EvoScientist/EvoScientist) - 自进化 AI 科学家项目，关注迭代式、智能体驱动的研究流程。
 
@@ -114,7 +114,7 @@ Self-Improvement in the Real World (ENPIRE)，让机器人智能体在物理世�
 1. [PaperBench](https://github.com/paperbench/paperbench) - 用于评估智能体从零复现 AI 研究论文能力的基准；当前列出的 GitHub URL 可能需要核对。
 2. [ResearchClawBench](https://internscience.github.io/ResearchClawBench-Home/) - 用于评估 AI 智能体自动科研能力的基准，覆盖从 rediscovery 到 new discovery 的任务。
 3. [EinsteinArena](https://einsteinarena.com/) - 开放竞技场，让 AI 智能体围绕未解决科学和优化问题协作、竞争并提交解法。
-4. [ResearchClawBench](https://github.com/InternScience/ResearchClawBench) [<!--stars:InternScience/ResearchClawBench-->⭐&nbsp;215<!--/stars-->](https://github.com/InternScience/ResearchClawBench) - ResearchClawBench 的 GitHub 仓库，包含相关基准实现和资源。
+4. [ResearchClawBench](https://github.com/InternScience/ResearchClawBench) [<!--stars:InternScience/ResearchClawBench-->⭐&nbsp;216<!--/stars-->](https://github.com/InternScience/ResearchClawBench) - ResearchClawBench 的 GitHub 仓库，包含相关基准实现和资源。
 5. [MLS-Bench](https://mls-bench.com/) - Machine Learning Science 基准，用于测试智能体是否能提出原子化、可泛化的 ML 科研贡献。
 6. [Autolab](https://github.com/autolabhq/autolab) [<!--stars:autolabhq/autolab-->⭐&nbsp;156<!--/stars-->](https://github.com/autolabhq/autolab) - 面向前沿超长周期自主科研任务的评测基准。
 7. [NatureBench](https://frontisai.github.io/NatureBench/) - NatureBench 是一个科学机器学习基准，旨在评估代码智能体能否通过编写代码，复现甚至超越《自然》（Nature）系列期刊论文中公布的最先进（SOTA）实验结果。
@@ -134,7 +134,7 @@ Self-Improvement in the Real World (ENPIRE)，让机器人智能体在物理世�
 1. [Awesome-Autoresearch](https://github.com/alvinreal/awesome-autoresearch) [<!--stars:alvinreal/awesome-autoresearch-->⭐&nbsp;2.3k<!--/stars-->](https://github.com/alvinreal/awesome-autoresearch) - 自主改进循环、research agents 和 autoresearch 风格系统的精选列表。
 2. [Awesome-Auto-Research-Tools](https://github.com/handsome-rich/Awesome-Auto-Research-Tools) [<!--stars:handsome-rich/Awesome-Auto-Research-Tools-->⭐&nbsp;1.1k<!--/stars-->](https://github.com/handsome-rich/Awesome-Auto-Research-Tools) - 自动化科研工具合集，覆盖文献搜索、论文阅读、实验管理和代码生成。
 3. [Awesome-AI-for-Research](https://github.com/WecoAI/awesome-ai-for-research) - AI research 工具相关的 awesome-list 风格资源；当前列出的 GitHub URL 可能需要核对。
-4. [Awesome-Autoresearch(A curated awesome list of public autoresearch use cases across industries.)](https://github.com/yibie/awesome-autoresearch) [<!--stars:yibie/awesome-autoresearch-->⭐&nbsp;643<!--/stars-->](https://github.com/yibie/awesome-autoresearch) - 公开 autoresearch 用例、基准、研讨会和行业案例的精选列表。
+4. [Awesome-Autoresearch(A curated awesome list of public autoresearch use cases across industries.)](https://github.com/yibie/awesome-autoresearch) [<!--stars:yibie/awesome-autoresearch-->⭐&nbsp;644<!--/stars-->](https://github.com/yibie/awesome-autoresearch) - 公开 autoresearch 用例、基准、研讨会和行业案例的精选列表。
 5. [Awesome-Vibe-Research](https://github.com/modelscope/Awesome-Vibe-Research) [<!--stars:modelscope/Awesome-Vibe-Research-->⭐&nbsp;357<!--/stars-->](https://github.com/modelscope/Awesome-Vibe-Research) - 面向 AI 辅助科研的开放共建仓库, 收集和沉淀科研全流程中的 agents、skills、workflows、tools 与最佳实践
 6. [Awesome-AI-for-Research](https://github.com/THU-KEG/Awesome-AI-for-Research) [<!--stars:THU-KEG/Awesome-AI-for-Research-->⭐&nbsp;107<!--/stars-->](https://github.com/THU-KEG/Awesome-AI-for-Research) - THU-KEG 使用 AI 提升科研效率，拓展科研探索空间。从聚焦工具到参与并重塑科研流程的智能体。
 7. [Awesome-LLM-Scientific-Discovery](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) [<!--stars:HKUST-KnowComp/Awesome-LLM-Scientific-Discovery-->⭐&nbsp;420<!--/stars-->](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) - 一个为科学发现精心搜集的大语言模型（LLM）资源列表，包含相关工具、数据集和论文。
