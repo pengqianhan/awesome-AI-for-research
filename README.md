@@ -53,6 +53,7 @@ This repository is a field guide for understanding the AI4Research ecosystem. It
 
 1. [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) [<!--stars:K-Dense-AI/scientific-agent-skills-->⭐&nbsp;31k<!--/stars-->](https://github.com/K-Dense-AI/scientific-agent-skills) - A large library of reusable scientific agent skills and database integrations for biology, chemistry, medicine, and drug discovery.
 2. [ToolUniverse](https://github.com/mims-harvard/ToolUniverse) [<!--stars:mims-harvard/ToolUniverse-->⭐&nbsp;1.6k<!--/stars-->](https://github.com/mims-harvard/ToolUniverse) - A tool ecosystem designed to give AI scientists access to scientific tools, databases, and execution capabilities.
+3. [Nature Skills](https://github.com/Yuan1z0825/nature-skills) [<!--stars:Yuan1z0825/nature-skills-->⭐&nbsp;updating<!--/stars-->](https://github.com/Yuan1z0825/nature-skills) - A reusable skill library for academic reading, writing, peer review, citation, data management, and publication-quality scientific figures.
 
 ### Heuristic Learning using Claude Code or Codex as optimizer
 
