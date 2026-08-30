@@ -42,8 +42,8 @@
 
 ### 基于 Claude Code 或 Codex 的科研系统
 
-1. [Auto-claude-code-research-in-sleep(ARIS)](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) [<!--stars:wanshuiyin/Auto-claude-code-research-in-sleep-->⭐&nbsp;15.4k<!--/stars-->](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - 轻量级 Markdown-only 科研技能栈，用于自主 ML 研究循环、想法发现、评审和实验自动化。
-2. [Academic Research Skills for Claude Code (ARS)](https://github.com/Imbad0202/academic-research-skills/tree/main) [<!--stars:Imbad0202/academic-research-skills-->⭐&nbsp;44.1k<!--/stars-->](https://github.com/Imbad0202/academic-research-skills) - 面向 Claude Code 的学术研究技能流程，覆盖调研、写作、审阅、修订和定稿。
+1. [Auto-claude-code-research-in-sleep(ARIS)](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) [<!--stars:wanshuiyin/Auto-claude-code-research-in-sleep-->⭐&nbsp;15.5k<!--/stars-->](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - 轻量级 Markdown-only 科研技能栈，用于自主 ML 研究循环、想法发现、评审和实验自动化。
+2. [Academic Research Skills for Claude Code (ARS)](https://github.com/Imbad0202/academic-research-skills/tree/main) [<!--stars:Imbad0202/academic-research-skills-->⭐&nbsp;44.2k<!--/stars-->](https://github.com/Imbad0202/academic-research-skills) - 面向 Claude Code 的学术研究技能流程，覆盖调研、写作、审阅、修订和定稿。
 3. [AutoR](https://github.com/AutoX-AI-Labs/AutoR) [<!--stars:AutoX-AI-Labs/AutoR-->⭐&nbsp;805<!--/stars-->](https://github.com/AutoX-AI-Labs/AutoR) - AI 负责执行、人类把握方向的研究系统，每次运行都会沉淀为可检查的磁盘 artifact。
 4. [Feynman](https://github.com/companion-inc/feynman/tree/main) [<!--stars:companion-inc/feynman-->⭐&nbsp;8.6k<!--/stars-->](https://github.com/companion-inc/feynman) - 开源 AI 科研代理，支持文献综述、深度研究、模拟评审、审计、复现实验和实验流程。
 5. [Deli_AutoResearch](https://victorchen96.github.io/auto_research/framework.html#fullmd) - 面向长期自主任务的协议框架。
@@ -51,9 +51,9 @@
 
 ### Skills
 
-1. [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) [<!--stars:K-Dense-AI/scientific-agent-skills-->⭐&nbsp;37.1k<!--/stars-->](https://github.com/K-Dense-AI/scientific-agent-skills) - 大规模科学智能体技能库，包含面向生物、化学、医学和药物发现的技能与数据库集成。
+1. [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) [<!--stars:K-Dense-AI/scientific-agent-skills-->⭐&nbsp;38.2k<!--/stars-->](https://github.com/K-Dense-AI/scientific-agent-skills) - 大规模科学智能体技能库，包含面向生物、化学、医学和药物发现的技能与数据库集成。
 2. [ToolUniverse](https://github.com/mims-harvard/ToolUniverse) [<!--stars:mims-harvard/ToolUniverse-->⭐&nbsp;1.7k<!--/stars-->](https://github.com/mims-harvard/ToolUniverse) - 面向 AI 科学家的工具生态，为智能体提供科学工具、数据库和执行能力。
-3. [Nature Skills](https://github.com/Yuan1z0825/nature-skills) [<!--stars:Yuan1z0825/nature-skills-->⭐&nbsp;37.7k<!--/stars-->](https://github.com/Yuan1z0825/nature-skills) - 面向论文阅读、写作、同行评审、引用、数据管理和投稿级科研绘图的可复用技能库。
+3. [Nature Skills](https://github.com/Yuan1z0825/nature-skills) [<!--stars:Yuan1z0825/nature-skills-->⭐&nbsp;37.9k<!--/stars-->](https://github.com/Yuan1z0825/nature-skills) - 面向论文阅读、写作、同行评审、引用、数据管理和投稿级科研绘图的可复用技能库。
 
 ### Heuristic Learning using Claude Code or Codex as optimizer
 
@@ -126,16 +126,16 @@ Self-Improvement in the Real World (ENPIRE)，让机器人智能体在物理世�
 ## xCode 系列
 
 1. [MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) [<!--stars:XiaomiMiMo/MiMo-Code-->⭐&nbsp;12.9k<!--/stars-->](https://github.com/XiaomiMiMo/MiMo-Code) - 小米 MiMo 的 coding-agent CLI，定位为下一代 agent 起点，并与 OpenCode 生态相关。
-2. [OpenCode](https://github.com/anomalyco/opencode) [<!--stars:anomalyco/opencode-->⭐&nbsp;202.3k<!--/stars-->](https://github.com/anomalyco/opencode) - 开源 coding agent，用于终端中的软件工程工作流。
-3. [Kimi-Code](https://github.com/MoonshotAI/kimi-code) [<!--stars:MoonshotAI/kimi-code-->⭐&nbsp;7.1k<!--/stars-->](https://github.com/MoonshotAI/kimi-code) - Moonshot AI 的 Kimi Code CLI，面向下一代 coding-agent 工作流。
+2. [OpenCode](https://github.com/anomalyco/opencode) [<!--stars:anomalyco/opencode-->⭐&nbsp;202.5k<!--/stars-->](https://github.com/anomalyco/opencode) - 开源 coding agent，用于终端中的软件工程工作流。
+3. [Kimi-Code](https://github.com/MoonshotAI/kimi-code) [<!--stars:MoonshotAI/kimi-code-->⭐&nbsp;7.2k<!--/stars-->](https://github.com/MoonshotAI/kimi-code) - Moonshot AI 的 Kimi Code CLI，面向下一代 coding-agent 工作流。
 
 ## 相关项目与资源
 
 1. [Awesome-Autoresearch](https://github.com/alvinreal/awesome-autoresearch) [<!--stars:alvinreal/awesome-autoresearch-->⭐&nbsp;2.5k<!--/stars-->](https://github.com/alvinreal/awesome-autoresearch) - 自主改进循环、research agents 和 autoresearch 风格系统的精选列表。
 2. [Awesome-Auto-Research-Tools](https://github.com/handsome-rich/Awesome-Auto-Research-Tools) [<!--stars:handsome-rich/Awesome-Auto-Research-Tools-->⭐&nbsp;1.2k<!--/stars-->](https://github.com/handsome-rich/Awesome-Auto-Research-Tools) - 自动化科研工具合集，覆盖文献搜索、论文阅读、实验管理和代码生成。
 3. [Awesome-AI-for-Research](https://github.com/WecoAI/awesome-ai-for-research) - AI research 工具相关的 awesome-list 风格资源；当前列出的 GitHub URL 可能需要核对。
-4. [Awesome-Autoresearch(A curated awesome list of public autoresearch use cases across industries.)](https://github.com/yibie/awesome-autoresearch) [<!--stars:yibie/awesome-autoresearch-->⭐&nbsp;709<!--/stars-->](https://github.com/yibie/awesome-autoresearch) - 公开 autoresearch 用例、基准、研讨会和行业案例的精选列表。
-5. [Awesome-Vibe-Research](https://github.com/modelscope/Awesome-Vibe-Research) [<!--stars:modelscope/Awesome-Vibe-Research-->⭐&nbsp;406<!--/stars-->](https://github.com/modelscope/Awesome-Vibe-Research) - 面向 AI 辅助科研的开放共建仓库, 收集和沉淀科研全流程中的 agents、skills、workflows、tools 与最佳实践
+4. [Awesome-Autoresearch(A curated awesome list of public autoresearch use cases across industries.)](https://github.com/yibie/awesome-autoresearch) [<!--stars:yibie/awesome-autoresearch-->⭐&nbsp;711<!--/stars-->](https://github.com/yibie/awesome-autoresearch) - 公开 autoresearch 用例、基准、研讨会和行业案例的精选列表。
+5. [Awesome-Vibe-Research](https://github.com/modelscope/Awesome-Vibe-Research) [<!--stars:modelscope/Awesome-Vibe-Research-->⭐&nbsp;408<!--/stars-->](https://github.com/modelscope/Awesome-Vibe-Research) - 面向 AI 辅助科研的开放共建仓库, 收集和沉淀科研全流程中的 agents、skills、workflows、tools 与最佳实践
 6. [Awesome-AI-for-Research](https://github.com/THU-KEG/Awesome-AI-for-Research) [<!--stars:THU-KEG/Awesome-AI-for-Research-->⭐&nbsp;113<!--/stars-->](https://github.com/THU-KEG/Awesome-AI-for-Research) - THU-KEG 使用 AI 提升科研效率，拓展科研探索空间。从聚焦工具到参与并重塑科研流程的智能体。
 7. [Awesome-LLM-Scientific-Discovery](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) [<!--stars:HKUST-KnowComp/Awesome-LLM-Scientific-Discovery-->⭐&nbsp;433<!--/stars-->](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) - 一个为科学发现精心搜集的大语言模型（LLM）资源列表，包含相关工具、数据集和论文。
 8. [Awesome AI for Science](https://github.com/ai4s-research/awesome-ai-for-science) [<!--stars:ai4s-research/awesome-ai-for-science-->⭐&nbsp;1.9k<!--/stars-->](https://github.com/ai4s-research/awesome-ai-for-science) - 面向跨学科科学发现的 AI 工具、库、论文、数据集和框架精选合集。
