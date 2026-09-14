@@ -38,22 +38,22 @@ This repository is a field guide for understanding the AI4Research ecosystem. It
 
 1. [OpenEvolve (AlphaEvolve)](https://github.com/algorithmicsuperintelligence/openevolve) [<!--stars:algorithmicsuperintelligence/openevolve-->⭐&nbsp;7.4k<!--/stars-->](https://github.com/algorithmicsuperintelligence/openevolve) - An open-source AlphaEvolve-style system for evolutionary code and algorithm optimization.
 2. [Claude-Evolve](https://github.com/samuelzxu/claude-evolve) [<!--stars:samuelzxu/claude-evolve-->⭐&nbsp;16<!--/stars-->](https://github.com/samuelzxu/claude-evolve) - A Claude Code plugin that applies ShinkaEvolve-style evolutionary search to code using model and thinking-effort ensembles.
-3. [MLEvolve](https://github.com/InternScience/MLEvolve) [<!--stars:InternScience/MLEvolve-->⭐&nbsp;436<!--/stars-->](https://github.com/InternScience/MLEvolve) - An autonomous machine learning algorithm design and optimization system powered by progressive search and experience memory.
+3. [MLEvolve](https://github.com/InternScience/MLEvolve) [<!--stars:InternScience/MLEvolve-->⭐&nbsp;438<!--/stars-->](https://github.com/InternScience/MLEvolve) - An autonomous machine learning algorithm design and optimization system powered by progressive search and experience memory.
 
 ### Research systems based on Claude Code or Codex
 
 1. [Auto-Claude-Code-Research-in-Sleep (ARIS)](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) [<!--stars:wanshuiyin/Auto-claude-code-research-in-sleep-->⭐&nbsp;16.1k<!--/stars-->](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - A lightweight Markdown-only skill stack for autonomous ML research loops, idea discovery, review, and experiment automation.
-2. [Academic Research Skills for Claude Code (ARS)](https://github.com/Imbad0202/academic-research-skills/tree/main) [<!--stars:Imbad0202/academic-research-skills-->⭐&nbsp;47.8k<!--/stars-->](https://github.com/Imbad0202/academic-research-skills) - A Claude Code skill workflow for academic research, writing, review, revision, and finalization.
+2. [Academic Research Skills for Claude Code (ARS)](https://github.com/Imbad0202/academic-research-skills/tree/main) [<!--stars:Imbad0202/academic-research-skills-->⭐&nbsp;47.9k<!--/stars-->](https://github.com/Imbad0202/academic-research-skills) - A Claude Code skill workflow for academic research, writing, review, revision, and finalization.
 3. [AutoR](https://github.com/AutoX-AI-Labs/AutoR) [<!--stars:AutoX-AI-Labs/AutoR-->⭐&nbsp;805<!--/stars-->](https://github.com/AutoX-AI-Labs/AutoR) - A research workflow where AI handles execution, humans steer direction, and each run becomes an inspectable artifact on disk.
-4. [Feynman](https://github.com/companion-inc/feynman/tree/main) [<!--stars:companion-inc/feynman-->⭐&nbsp;9.5k<!--/stars-->](https://github.com/companion-inc/feynman) - An open-source AI research agent for literature review, deep research, peer review, auditing, replication, and experiment workflows.
+4. [Feynman](https://github.com/companion-inc/feynman/tree/main) [<!--stars:companion-inc/feynman-->⭐&nbsp;9.6k<!--/stars-->](https://github.com/companion-inc/feynman) - An open-source AI research agent for literature review, deep research, peer review, auditing, replication, and experiment workflows.
 5. [Deli_AutoResearch](https://victorchen96.github.io/auto_research/framework.html#fullmd) - A protocol framework for long-horizon autonomous tasks.
 6. [ResearchStudio](https://github.com/microsoft/ResearchStudio) [<!--stars:microsoft/ResearchStudio-->⭐&nbsp;2.8k<!--/stars-->](https://github.com/microsoft/ResearchStudio) - An agentic skill suite powered by Claude Code and Codex that automates the entire research lifecycle, from ideation to post-paper artifact generation.
 
 ### Skills
 
-1. [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) [<!--stars:K-Dense-AI/scientific-agent-skills-->⭐&nbsp;44.6k<!--/stars-->](https://github.com/K-Dense-AI/scientific-agent-skills) - A large library of reusable scientific agent skills and database integrations for biology, chemistry, medicine, and drug discovery.
+1. [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) [<!--stars:K-Dense-AI/scientific-agent-skills-->⭐&nbsp;44.8k<!--/stars-->](https://github.com/K-Dense-AI/scientific-agent-skills) - A large library of reusable scientific agent skills and database integrations for biology, chemistry, medicine, and drug discovery.
 2. [ToolUniverse](https://github.com/mims-harvard/ToolUniverse) [<!--stars:mims-harvard/ToolUniverse-->⭐&nbsp;1.7k<!--/stars-->](https://github.com/mims-harvard/ToolUniverse) - A tool ecosystem designed to give AI scientists access to scientific tools, databases, and execution capabilities.
-3. [Nature Skills](https://github.com/Yuan1z0825/nature-skills) [<!--stars:Yuan1z0825/nature-skills-->⭐&nbsp;41.1k<!--/stars-->](https://github.com/Yuan1z0825/nature-skills) - A reusable skill library for academic reading, writing, peer review, citation, data management, and publication-quality scientific figures.
+3. [Nature Skills](https://github.com/Yuan1z0825/nature-skills) [<!--stars:Yuan1z0825/nature-skills-->⭐&nbsp;41.3k<!--/stars-->](https://github.com/Yuan1z0825/nature-skills) - A reusable skill library for academic reading, writing, peer review, citation, data management, and publication-quality scientific figures.
 
 ### Heuristic Learning using Claude Code or Codex as optimizer
 
@@ -84,7 +84,7 @@ Self-Improvement in the Real World (ENPIRE),where robotic agents autonomously ex
 3. [Meta-Harness](https://github.com/stanford-iris-lab/meta-harness) [<!--stars:stanford-iris-lab/meta-harness-->⭐&nbsp;1.6k<!--/stars-->](https://github.com/stanford-iris-lab/meta-harness) - Reference code for Meta-Harness, a method for searching agent harnesses under expensive evaluation.
 4. [AutoScientists](https://github.com/mims-harvard/AutoScientists) [<!--stars:mims-harvard/AutoScientists-->⭐&nbsp;741<!--/stars-->](https://github.com/mims-harvard/AutoScientists) - A long-running scientific experimentation framework built around self-organizing multi-agent teams.
 5. [DeepScientist](https://github.com/ResearAI/DeepScientist) [<!--stars:ResearAI/DeepScientist-->⭐&nbsp;3.3k<!--/stars-->](https://github.com/ResearAI/DeepScientist) - A local-first autonomous research studio that manages baselines, experiment rounds, memory, and paper-ready outputs.
-6. [evoscientist](https://github.com/EvoScientist/EvoScientist) [<!--stars:EvoScientist/EvoScientist-->⭐&nbsp;4.8k<!--/stars-->](https://github.com/EvoScientist/EvoScientist) - A self-evolving AI scientist project focused on iterative, agent-driven research workflows.
+6. [evoscientist](https://github.com/EvoScientist/EvoScientist) [<!--stars:EvoScientist/EvoScientist-->⭐&nbsp;4.9k<!--/stars-->](https://github.com/EvoScientist/EvoScientist) - A self-evolving AI scientist project focused on iterative, agent-driven research workflows.
 
 ## Infrastructure for agent-friendly research
 
@@ -113,11 +113,11 @@ Self-Improvement in the Real World (ENPIRE),where robotic agents autonomously ex
 ## Benchmarks for research agents
 
 1. [PaperBench](https://github.com/paperbench/paperbench) - A benchmark for evaluating agents on replicating AI research papers from scratch; the listed GitHub URL may need verification.
-2. [ResearchClawBench](https://github.com/InternScience/ResearchClawBench) [<!--stars:InternScience/ResearchClawBench-->⭐&nbsp;262<!--/stars-->](https://github.com/InternScience/ResearchClawBench) - A benchmark for evaluating AI agents on automated research, from rediscovery to new discovery.
+2. [ResearchClawBench](https://github.com/InternScience/ResearchClawBench) [<!--stars:InternScience/ResearchClawBench-->⭐&nbsp;263<!--/stars-->](https://github.com/InternScience/ResearchClawBench) - A benchmark for evaluating AI agents on automated research, from rediscovery to new discovery.
 3. [EinsteinArena](https://github.com/vinid/einstein-arena) [<!--stars:vinid/einstein-arena-->⭐&nbsp;51<!--/stars-->](https://github.com/vinid/einstein-arena) - An open arena where AI agents collaborate and compete on unsolved science and optimization problems.
 4. [MLS-Bench](https://github.com/Imbernoulli/MLS-Bench) [<!--stars:Imbernoulli/MLS-Bench-->⭐&nbsp;115<!--/stars-->](https://github.com/Imbernoulli/MLS-Bench) - A Machine Learning Science benchmark for testing whether agents can make atomic, generalizable ML research contributions.
 5. [Autolab](https://github.com/autolabhq/autolab) [<!--stars:autolabhq/autolab-->⭐&nbsp;164<!--/stars-->](https://github.com/autolabhq/autolab) - A benchmark for frontier ultra long-horizon autonomous research tasks.
-6. [NatureBench](https://github.com/FrontisAI/NatureBench) [<!--stars:FrontisAI/NatureBench-->⭐&nbsp;115<!--/stars-->](https://github.com/FrontisAI/NatureBench) - NatureBench is a scientific machine learning benchmark that evaluates whether coding agents can write code to reproduce or surpass the state-of-the-art (SOTA) experimental results published in Nature-family papers.
+6. [NatureBench](https://github.com/FrontisAI/NatureBench) [<!--stars:FrontisAI/NatureBench-->⭐&nbsp;116<!--/stars-->](https://github.com/FrontisAI/NatureBench) - NatureBench is a scientific machine learning benchmark that evaluates whether coding agents can write code to reproduce or surpass the state-of-the-art (SOTA) experimental results published in Nature-family papers.
 
 ## Paper collections
 
@@ -126,19 +126,19 @@ Self-Improvement in the Real World (ENPIRE),where robotic agents autonomously ex
 ## xCode series
 
 1. [MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) [<!--stars:XiaomiMiMo/MiMo-Code-->⭐&nbsp;13.1k<!--/stars-->](https://github.com/XiaomiMiMo/MiMo-Code) - Xiaomi MiMo's coding-agent CLI, positioned as a next-generation agent starting point and related to OpenCode.
-2. [OpenCode](https://github.com/anomalyco/opencode) [<!--stars:anomalyco/opencode-->⭐&nbsp;207k<!--/stars-->](https://github.com/anomalyco/opencode) - An open-source coding agent for terminal-based software engineering workflows.
-3. [Kimi-Code](https://github.com/MoonshotAI/kimi-code) [<!--stars:MoonshotAI/kimi-code-->⭐&nbsp;7.3k<!--/stars-->](https://github.com/MoonshotAI/kimi-code) - Moonshot AI's Kimi Code CLI for next-generation coding-agent workflows.
+2. [OpenCode](https://github.com/anomalyco/opencode) [<!--stars:anomalyco/opencode-->⭐&nbsp;207.2k<!--/stars-->](https://github.com/anomalyco/opencode) - An open-source coding agent for terminal-based software engineering workflows.
+3. [Kimi-Code](https://github.com/MoonshotAI/kimi-code) [<!--stars:MoonshotAI/kimi-code-->⭐&nbsp;7.4k<!--/stars-->](https://github.com/MoonshotAI/kimi-code) - Moonshot AI's Kimi Code CLI for next-generation coding-agent workflows.
 
 ## Related projects and resources
 
 1. [Awesome-Autoresearch](https://github.com/alvinreal/awesome-autoresearch) [<!--stars:alvinreal/awesome-autoresearch-->⭐&nbsp;2.5k<!--/stars-->](https://github.com/alvinreal/awesome-autoresearch) - A curated list of autonomous improvement loops, research agents, and autoresearch-style systems.
 2. [Awesome-Auto-Research-Tools](https://github.com/handsome-rich/Awesome-Auto-Research-Tools) [<!--stars:handsome-rich/Awesome-Auto-Research-Tools-->⭐&nbsp;1.2k<!--/stars-->](https://github.com/handsome-rich/Awesome-Auto-Research-Tools) - A curated collection of automated research tools for literature search, paper reading, experiment management, and code generation.
 3. [Awesome-AI-for-Research](https://github.com/WecoAI/awesome-ai-for-research) - A related awesome-list style resource for AI research tooling; the listed GitHub URL may need verification.
-4. [Awesome-Autoresearch: A curated awesome list of public autoresearch use cases across industries](https://github.com/yibie/awesome-autoresearch) [<!--stars:yibie/awesome-autoresearch-->⭐&nbsp;739<!--/stars-->](https://github.com/yibie/awesome-autoresearch) - A public list of autoresearch use cases, benchmarks, workshops, and industry examples.
+4. [Awesome-Autoresearch: A curated awesome list of public autoresearch use cases across industries](https://github.com/yibie/awesome-autoresearch) [<!--stars:yibie/awesome-autoresearch-->⭐&nbsp;740<!--/stars-->](https://github.com/yibie/awesome-autoresearch) - A public list of autoresearch use cases, benchmarks, workshops, and industry examples.
 5. [Awesome-Vibe-Research](https://github.com/modelscope/Awesome-Vibe-Research) [<!--stars:modelscope/Awesome-Vibe-Research-->⭐&nbsp;427<!--/stars-->](https://github.com/modelscope/Awesome-Vibe-Research) - An open collaborative repository for AI-assisted research, collecting and distilling agents, skills, workflows, tools, and best practices across the research lifecycle.
 6. [Awesome-AI-for-Research](https://github.com/THU-KEG/Awesome-AI-for-Research) [<!--stars:THU-KEG/Awesome-AI-for-Research-->⭐&nbsp;117<!--/stars-->](https://github.com/THU-KEG/Awesome-AI-for-Research) - Use AI to improve research efficiency and expand the space of exploration. From focused tools to agents that participate in and reshape the research pipeline.
 7. [Awesome-LLM-Scientific-Discovery](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) [<!--stars:HKUST-KnowComp/Awesome-LLM-Scientific-Discovery-->⭐&nbsp;438<!--/stars-->](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) - A curated list of LLMs for scientific discovery, including tools, datasets, and papers.
-8. [NatureBench](https://github.com/FrontisAI/NatureBench) [<!--stars:FrontisAI/NatureBench-->⭐&nbsp;115<!--/stars-->](https://github.com/FrontisAI/NatureBench) - NatureBench is a scientific machine learning benchmark that evaluates whether coding agents can write code to reproduce or surpass the state-of-the-art (SOTA) experimental results published in Nature-family papers.
+8. [NatureBench](https://github.com/FrontisAI/NatureBench) [<!--stars:FrontisAI/NatureBench-->⭐&nbsp;116<!--/stars-->](https://github.com/FrontisAI/NatureBench) - NatureBench is a scientific machine learning benchmark that evaluates whether coding agents can write code to reproduce or surpass the state-of-the-art (SOTA) experimental results published in Nature-family papers.
 9. [Awesome AI for Science](https://github.com/ai4s-research/awesome-ai-for-science) [<!--stars:ai4s-research/awesome-ai-for-science-->⭐&nbsp;2k<!--/stars-->](https://github.com/ai4s-research/awesome-ai-for-science) - A curated collection of AI tools, libraries, papers, datasets, and frameworks for scientific discovery across disciplines.
 
 ## Contributing and maintenance
