@@ -42,8 +42,8 @@
 
 ### 基于 Claude Code 或 Codex 的科研系统
 
-1. [Auto-claude-code-research-in-sleep(ARIS)](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) [<!--stars:wanshuiyin/Auto-claude-code-research-in-sleep-->⭐&nbsp;16.5k<!--/stars-->](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - 轻量级 Markdown-only 科研技能栈，用于自主 ML 研究循环、想法发现、评审和实验自动化。
-2. [Academic Research Skills for Claude Code (ARS)](https://github.com/Imbad0202/academic-research-skills/tree/main) [<!--stars:Imbad0202/academic-research-skills-->⭐&nbsp;49.2k<!--/stars-->](https://github.com/Imbad0202/academic-research-skills) - 面向 Claude Code 的学术研究技能流程，覆盖调研、写作、审阅、修订和定稿。
+1. [Auto-claude-code-research-in-sleep(ARIS)](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) [<!--stars:wanshuiyin/Auto-claude-code-research-in-sleep-->⭐&nbsp;16.6k<!--/stars-->](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - 轻量级 Markdown-only 科研技能栈，用于自主 ML 研究循环、想法发现、评审和实验自动化。
+2. [Academic Research Skills for Claude Code (ARS)](https://github.com/Imbad0202/academic-research-skills/tree/main) [<!--stars:Imbad0202/academic-research-skills-->⭐&nbsp;49.3k<!--/stars-->](https://github.com/Imbad0202/academic-research-skills) - 面向 Claude Code 的学术研究技能流程，覆盖调研、写作、审阅、修订和定稿。
 3. [AutoR](https://github.com/AutoX-AI-Labs/AutoR) [<!--stars:AutoX-AI-Labs/AutoR-->⭐&nbsp;805<!--/stars-->](https://github.com/AutoX-AI-Labs/AutoR) - AI 负责执行、人类把握方向的研究系统，每次运行都会沉淀为可检查的磁盘 artifact。
 4. [Feynman](https://github.com/companion-inc/feynman/tree/main) [<!--stars:companion-inc/feynman-->⭐&nbsp;9.8k<!--/stars-->](https://github.com/companion-inc/feynman) - 开源 AI 科研代理，支持文献综述、深度研究、模拟评审、审计、复现实验和实验流程。
 5. [Deli_AutoResearch](https://victorchen96.github.io/auto_research/framework.html#fullmd) - 面向长期自主任务的协议框架。
@@ -51,9 +51,9 @@
 
 ### Skills
 
-1. [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) [<!--stars:K-Dense-AI/scientific-agent-skills-->⭐&nbsp;46.2k<!--/stars-->](https://github.com/K-Dense-AI/scientific-agent-skills) - 大规模科学智能体技能库，包含面向生物、化学、医学和药物发现的技能与数据库集成。
+1. [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) [<!--stars:K-Dense-AI/scientific-agent-skills-->⭐&nbsp;46.4k<!--/stars-->](https://github.com/K-Dense-AI/scientific-agent-skills) - 大规模科学智能体技能库，包含面向生物、化学、医学和药物发现的技能与数据库集成。
 2. [ToolUniverse](https://github.com/mims-harvard/ToolUniverse) [<!--stars:mims-harvard/ToolUniverse-->⭐&nbsp;1.7k<!--/stars-->](https://github.com/mims-harvard/ToolUniverse) - 面向 AI 科学家的工具生态，为智能体提供科学工具、数据库和执行能力。
-3. [Nature Skills](https://github.com/Yuan1z0825/nature-skills) [<!--stars:Yuan1z0825/nature-skills-->⭐&nbsp;44.1k<!--/stars-->](https://github.com/Yuan1z0825/nature-skills) - 面向论文阅读、写作、同行评审、引用、数据管理和投稿级科研绘图的可复用技能库。
+3. [Nature Skills](https://github.com/Yuan1z0825/nature-skills) [<!--stars:Yuan1z0825/nature-skills-->⭐&nbsp;44.3k<!--/stars-->](https://github.com/Yuan1z0825/nature-skills) - 面向论文阅读、写作、同行评审、引用、数据管理和投稿级科研绘图的可复用技能库。
 
 ### Heuristic Learning using Claude Code or Codex as optimizer
 
@@ -64,7 +64,7 @@
 
 ### Autoresearch related
 
-1. [autoresearch](https://github.com/karpathy/autoresearch) [<!--stars:karpathy/autoresearch-->⭐&nbsp;96.6k<!--/stars-->](https://github.com/karpathy/autoresearch) - 极简单卡 nanochat 研究循环，让智能体编辑训练代码、运行限时实验，并自动保留或回滚改动。
+1. [autoresearch](https://github.com/karpathy/autoresearch) [<!--stars:karpathy/autoresearch-->⭐&nbsp;96.7k<!--/stars-->](https://github.com/karpathy/autoresearch) - 极简单卡 nanochat 研究循环，让智能体编辑训练代码、运行限时实验，并自动保留或回滚改动。
 2. [Autoresearch Paradigm Fire](https://github.com/DeveshParagiri/ed-autoresearch) [<!--stars:DeveshParagiri/ed-autoresearch-->⭐&nbsp;0<!--/stars-->](https://github.com/DeveshParagiri/ed-autoresearch) - 关于扩展 autoresearch 循环的文章，讨论如何超越基础的指标优化智能体。
 3. [PrimeIntellect](https://github.com/PrimeIntellect-ai/experiments-autonomous-speedrunning) [<!--stars:PrimeIntellect-ai/experiments-autonomous-speedrunning-->⭐&nbsp;110<!--/stars-->](https://github.com/PrimeIntellect-ai/experiments-autonomous-speedrunning) - Prime Intellect 的自主 nanoGPT speedrun 实验，让 Codex 和 Claude Code 在大规模算力上搜索优化器方案。
 4. [AutoScientists](https://github.com/mims-harvard/AutoScientists/tree/main) [<!--stars:mims-harvard/AutoScientists-->⭐&nbsp;749<!--/stars-->](https://github.com/mims-harvard/AutoScientists) - 面向长期科学实验的自组织多智能体团队框架。
@@ -74,7 +74,7 @@ Self-Improvement in the Real World (ENPIRE)，让机器人智能体在物理世�
 
 ### AI4LLM
 
-1. [Autoresearch](https://github.com/karpathy/autoresearch) [<!--stars:karpathy/autoresearch-->⭐&nbsp;96.6k<!--/stars-->](https://github.com/karpathy/autoresearch) - 用于单卡 LLM 训练研究的紧凑型自主实验循环。
+1. [Autoresearch](https://github.com/karpathy/autoresearch) [<!--stars:karpathy/autoresearch-->⭐&nbsp;96.7k<!--/stars-->](https://github.com/karpathy/autoresearch) - 用于单卡 LLM 训练研究的紧凑型自主实验循环。
 2. [ML-Intern](https://github.com/huggingface/ml-intern) [<!--stars:huggingface/ml-intern-->⭐&nbsp;10.8k<!--/stars-->](https://github.com/huggingface/ml-intern) - 开源 ML 工程师智能体，可阅读论文、训练模型并交付机器学习 artifact。
 
 ### RSI (recursive self improvement) / Harness Engineering
@@ -100,8 +100,8 @@ Self-Improvement in the Real World (ENPIRE)，让机器人智能体在物理世�
    ```
 
 2. [Adding arXiv and 150M+ abstracts to Paperclip](https://gxl.ai/blog/adding-arxiv-and-abstracts) - 介绍 Paperclip 如何为智能体索引 arXiv 全文和 OpenAlex 规模的摘要语料，支持搜索、阅读和综合。
-3. [DeepXiv SDK](https://github.com/DeepXiv/deepxiv_sdk) [<!--stars:DeepXiv/deepxiv_sdk-->⭐&nbsp;792<!--/stars-->](https://github.com/DeepXiv/deepxiv_sdk) - 用于和 arXiv 论文对话的 Python 包与 AI agent 接口。
-4. [arxiv2md](https://github.com/timf34/arxiv2md) [<!--stars:timf34/arxiv2md-->⭐&nbsp;214<!--/stars-->](https://github.com/timf34/arxiv2md) - 代替解析 PDF（慢且容易出错），arxiv2md 解析 arXiv 为新论文提供的结构化 HTML。这意味着清晰的章节边界、正确的数学公式（MathML → LaTeX）、可靠的表格和快速处理——无需 OCR。
+3. [DeepXiv SDK](https://github.com/DeepXiv/deepxiv_sdk) [<!--stars:DeepXiv/deepxiv_sdk-->⭐&nbsp;794<!--/stars-->](https://github.com/DeepXiv/deepxiv_sdk) - 用于和 arXiv 论文对话的 Python 包与 AI agent 接口。
+4. [arxiv2md](https://github.com/timf34/arxiv2md) [<!--stars:timf34/arxiv2md-->⭐&nbsp;215<!--/stars-->](https://github.com/timf34/arxiv2md) - 代替解析 PDF（慢且容易出错），arxiv2md 解析 arXiv 为新论文提供的结构化 HTML。这意味着清晰的章节边界、正确的数学公式（MathML → LaTeX）、可靠的表格和快速处理——无需 OCR。
 5. [AI 方法演化图谱](https://intern-atlas.opendatalab.org.cn/#api) - 面向智能体的结构化、可查询 AI 方法演化图谱，可作为科学记忆层。
 6. [The Last Human-Written Paper Agent-Native Research Artifacts](https://github.com/Orchestra-Research/Agent-Native-Research-Artifact) [<!--stars:Orchestra-Research/Agent-Native-Research-Artifact-->⭐&nbsp;682<!--/stars-->](https://github.com/Orchestra-Research/Agent-Native-Research-Artifact) - 提出用机器原生研究 artifact 替代扁平论文，保留逻辑、代码、探索轨迹和证据。
 7. [General Agent: A Self-Evolving, Synthetic Agent Environment](https://www.primeintellect.ai/blog/general-agent) - 自进化合成智能体环境，通过持续扩展任务语料来提升 agent 训练的多样性和难度。
@@ -115,9 +115,9 @@ Self-Improvement in the Real World (ENPIRE)，让机器人智能体在物理世�
 1. [PaperBench](https://github.com/paperbench/paperbench) - 用于评估智能体从零复现 AI 研究论文能力的基准；当前列出的 GitHub URL 可能需要核对。
 2. [ResearchClawBench](https://github.com/InternScience/ResearchClawBench) [<!--stars:InternScience/ResearchClawBench-->⭐&nbsp;264<!--/stars-->](https://github.com/InternScience/ResearchClawBench) - 用于评估 AI 智能体自动科研能力的基准，覆盖从 rediscovery 到 new discovery 的任务。
 3. [EinsteinArena](https://github.com/vinid/einstein-arena) [<!--stars:vinid/einstein-arena-->⭐&nbsp;51<!--/stars-->](https://github.com/vinid/einstein-arena) - 开放竞技场，让 AI 智能体围绕未解决科学和优化问题协作、竞争并提交解法。
-4. [MLS-Bench](https://github.com/Imbernoulli/MLS-Bench) [<!--stars:Imbernoulli/MLS-Bench-->⭐&nbsp;119<!--/stars-->](https://github.com/Imbernoulli/MLS-Bench) - Machine Learning Science 基准，用于测试智能体是否能提出原子化、可泛化的 ML 科研贡献。
+4. [MLS-Bench](https://github.com/Imbernoulli/MLS-Bench) [<!--stars:Imbernoulli/MLS-Bench-->⭐&nbsp;120<!--/stars-->](https://github.com/Imbernoulli/MLS-Bench) - Machine Learning Science 基准，用于测试智能体是否能提出原子化、可泛化的 ML 科研贡献。
 5. [Autolab](https://github.com/autolabhq/autolab) [<!--stars:autolabhq/autolab-->⭐&nbsp;166<!--/stars-->](https://github.com/autolabhq/autolab) - 面向前沿超长周期自主科研任务的评测基准。
-6. [NatureBench](https://github.com/FrontisAI/NatureBench) [<!--stars:FrontisAI/NatureBench-->⭐&nbsp;125<!--/stars-->](https://github.com/FrontisAI/NatureBench) - NatureBench 是一个科学机器学习基准，旨在评估代码智能体能否通过编写代码，复现甚至超越《自然》（Nature）系列期刊论文中公布的最先进（SOTA）实验结果。
+6. [NatureBench](https://github.com/FrontisAI/NatureBench) [<!--stars:FrontisAI/NatureBench-->⭐&nbsp;126<!--/stars-->](https://github.com/FrontisAI/NatureBench) - NatureBench 是一个科学机器学习基准，旨在评估代码智能体能否通过编写代码，复现甚至超越《自然》（Nature）系列期刊论文中公布的最先进（SOTA）实验结果。
 
 ## 论文合集
 
@@ -125,8 +125,8 @@ Self-Improvement in the Real World (ENPIRE)，让机器人智能体在物理世�
 
 ## xCode 系列
 
-1. [MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) [<!--stars:XiaomiMiMo/MiMo-Code-->⭐&nbsp;13.4k<!--/stars-->](https://github.com/XiaomiMiMo/MiMo-Code) - 小米 MiMo 的 coding-agent CLI，定位为下一代 agent 起点，并与 OpenCode 生态相关。
-2. [OpenCode](https://github.com/anomalyco/opencode) [<!--stars:anomalyco/opencode-->⭐&nbsp;209.5k<!--/stars-->](https://github.com/anomalyco/opencode) - 开源 coding agent，用于终端中的软件工程工作流。
+1. [MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) [<!--stars:XiaomiMiMo/MiMo-Code-->⭐&nbsp;13.5k<!--/stars-->](https://github.com/XiaomiMiMo/MiMo-Code) - 小米 MiMo 的 coding-agent CLI，定位为下一代 agent 起点，并与 OpenCode 生态相关。
+2. [OpenCode](https://github.com/anomalyco/opencode) [<!--stars:anomalyco/opencode-->⭐&nbsp;209.7k<!--/stars-->](https://github.com/anomalyco/opencode) - 开源 coding agent，用于终端中的软件工程工作流。
 3. [Kimi-Code](https://github.com/MoonshotAI/kimi-code) [<!--stars:MoonshotAI/kimi-code-->⭐&nbsp;7.6k<!--/stars-->](https://github.com/MoonshotAI/kimi-code) - Moonshot AI 的 Kimi Code CLI，面向下一代 coding-agent 工作流。
 
 ## 相关项目与资源
