@@ -30,7 +30,7 @@
 
 1. [AI-scientist](https://github.com/SakanaAI/AI-Scientist) [<!--stars:SakanaAI/AI-Scientist-->⭐&nbsp;14.7k<!--/stars-->](https://github.com/SakanaAI/AI-Scientist) and [AI-scientist v2](https://github.com/SakanaAI/AI-Scientist-v2/tree/main) [<!--stars:SakanaAI/AI-Scientist-v2-->⭐&nbsp;7.3k<!--/stars-->](https://github.com/SakanaAI/AI-Scientist-v2) - 自动化科研发现系统，覆盖想法生成、实验执行和论文写作；v2 进一步引入 agentic tree search，面向更强的 workshop 级科学发现。
 2. [AI-Researcher(HKUDS)](https://github.com/HKUDS/AI-Researcher) [<!--stars:HKUDS/AI-Researcher-->⭐&nbsp;5.8k<!--/stars-->](https://github.com/HKUDS/AI-Researcher) - 面向自主科学创新的系统，支持从研究构想到实验和论文生成的端到端流程。
-3. [Paperorchestra](https://github.com/google-research/paper-orchestra) [<!--stars:google-research/paper-orchestra-->⭐&nbsp;148<!--/stars-->](https://github.com/google-research/paper-orchestra) - 多智能体论文写作框架，可把稀疏想法摘要和原始实验日志转成接近投稿状态的 AI 研究论文。
+3. [Paperorchestra](https://github.com/google-research/paper-orchestra) [<!--stars:google-research/paper-orchestra-->⭐&nbsp;150<!--/stars-->](https://github.com/google-research/paper-orchestra) - 多智能体论文写作框架，可把稀疏想法摘要和原始实验日志转成接近投稿状态的 AI 研究论文。
 4. [PaperBanana](https://github.com/dwzhu-pku/PaperBanana) [<!--stars:dwzhu-pku/PaperBanana-->⭐&nbsp;7.1k<!--/stars-->](https://github.com/dwzhu-pku/PaperBanana) - 面向 AI 科学家的学术插图生成框架，用于自动生成论文级方法图和统计图。
 5. [Scientist-One](https://github.com/scientist-one/generated-artifacts) [<!--stars:scientist-one/generated-artifacts-->⭐&nbsp;59<!--/stars-->](https://github.com/scientist-one/generated-artifacts) - ScientistOne 能够自主生成具备可验证证据链的研究论文——其每一项主张均可追溯至代码、数据或文献——同时在前沿算法发现任务上，达到甚至超越人类专家的水平。
 
@@ -38,12 +38,12 @@
 
 1. [OpenEvolve(alphaevolve)](https://github.com/algorithmicsuperintelligence/openevolve) [<!--stars:algorithmicsuperintelligence/openevolve-->⭐&nbsp;7.5k<!--/stars-->](https://github.com/algorithmicsuperintelligence/openevolve) - AlphaEvolve 风格的开源实现，用进化搜索优化代码和算法。
 2. [Claude-Evolve](https://github.com/samuelzxu/claude-evolve) [<!--stars:samuelzxu/claude-evolve-->⭐&nbsp;16<!--/stars-->](https://github.com/samuelzxu/claude-evolve) - Claude Code 插件，用 ShinkaEvolve 风格的进化搜索和多模型/多思考强度组合来演化代码。
-3. [MLEvolve](https://github.com/InternScience/MLEvolve) [<!--stars:InternScience/MLEvolve-->⭐&nbsp;447<!--/stars-->](https://github.com/InternScience/MLEvolve) - 自主机器学习算法设计与优化系统，结合渐进式搜索和经验记忆。
+3. [MLEvolve](https://github.com/InternScience/MLEvolve) [<!--stars:InternScience/MLEvolve-->⭐&nbsp;448<!--/stars-->](https://github.com/InternScience/MLEvolve) - 自主机器学习算法设计与优化系统，结合渐进式搜索和经验记忆。
 
 ### 基于 Claude Code 或 Codex 的科研系统
 
-1. [Auto-claude-code-research-in-sleep(ARIS)](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) [<!--stars:wanshuiyin/Auto-claude-code-research-in-sleep-->⭐&nbsp;17k<!--/stars-->](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - 轻量级 Markdown-only 科研技能栈，用于自主 ML 研究循环、想法发现、评审和实验自动化。
-2. [Academic Research Skills for Claude Code (ARS)](https://github.com/Imbad0202/academic-research-skills/tree/main) [<!--stars:Imbad0202/academic-research-skills-->⭐&nbsp;50.6k<!--/stars-->](https://github.com/Imbad0202/academic-research-skills) - 面向 Claude Code 的学术研究技能流程，覆盖调研、写作、审阅、修订和定稿。
+1. [Auto-claude-code-research-in-sleep(ARIS)](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) [<!--stars:wanshuiyin/Auto-claude-code-research-in-sleep-->⭐&nbsp;17.1k<!--/stars-->](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - 轻量级 Markdown-only 科研技能栈，用于自主 ML 研究循环、想法发现、评审和实验自动化。
+2. [Academic Research Skills for Claude Code (ARS)](https://github.com/Imbad0202/academic-research-skills/tree/main) [<!--stars:Imbad0202/academic-research-skills-->⭐&nbsp;50.7k<!--/stars-->](https://github.com/Imbad0202/academic-research-skills) - 面向 Claude Code 的学术研究技能流程，覆盖调研、写作、审阅、修订和定稿。
 3. [AutoR](https://github.com/AutoX-AI-Labs/AutoR) [<!--stars:AutoX-AI-Labs/AutoR-->⭐&nbsp;805<!--/stars-->](https://github.com/AutoX-AI-Labs/AutoR) - AI 负责执行、人类把握方向的研究系统，每次运行都会沉淀为可检查的磁盘 artifact。
 4. [Feynman](https://github.com/companion-inc/feynman/tree/main) [<!--stars:companion-inc/feynman-->⭐&nbsp;9.9k<!--/stars-->](https://github.com/companion-inc/feynman) - 开源 AI 科研代理，支持文献综述、深度研究、模拟评审、审计、复现实验和实验流程。
 5. [Deli_AutoResearch](https://victorchen96.github.io/auto_research/framework.html#fullmd) - 面向长期自主任务的协议框架。
@@ -51,13 +51,13 @@
 
 ### Skills
 
-1. [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) [<!--stars:K-Dense-AI/scientific-agent-skills-->⭐&nbsp;47.7k<!--/stars-->](https://github.com/K-Dense-AI/scientific-agent-skills) - 大规模科学智能体技能库，包含面向生物、化学、医学和药物发现的技能与数据库集成。
+1. [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills) [<!--stars:K-Dense-AI/scientific-agent-skills-->⭐&nbsp;47.8k<!--/stars-->](https://github.com/K-Dense-AI/scientific-agent-skills) - 大规模科学智能体技能库，包含面向生物、化学、医学和药物发现的技能与数据库集成。
 2. [ToolUniverse](https://github.com/mims-harvard/ToolUniverse) [<!--stars:mims-harvard/ToolUniverse-->⭐&nbsp;1.7k<!--/stars-->](https://github.com/mims-harvard/ToolUniverse) - 面向 AI 科学家的工具生态，为智能体提供科学工具、数据库和执行能力。
-3. [Nature Skills](https://github.com/Yuan1z0825/nature-skills) [<!--stars:Yuan1z0825/nature-skills-->⭐&nbsp;46.1k<!--/stars-->](https://github.com/Yuan1z0825/nature-skills) - 面向论文阅读、写作、同行评审、引用、数据管理和投稿级科研绘图的可复用技能库。
+3. [Nature Skills](https://github.com/Yuan1z0825/nature-skills) [<!--stars:Yuan1z0825/nature-skills-->⭐&nbsp;46.3k<!--/stars-->](https://github.com/Yuan1z0825/nature-skills) - 面向论文阅读、写作、同行评审、引用、数据管理和投稿级科研绘图的可复用技能库。
 
 ### Heuristic Learning using Claude Code or Codex as optimizer
 
-1. [Learning Beyond Gradients](https://github.com/Trinkle23897/learning-beyond-gradients) [<!--stars:Trinkle23897/learning-beyond-gradients-->⭐&nbsp;629<!--/stars-->](https://github.com/Trinkle23897/learning-beyond-gradients) - 提出 Heuristic Learning 的长文，讨论编码智能体如何在不更新梯度的情况下持续改进软件策略和系统。
+1. [Learning Beyond Gradients](https://github.com/Trinkle23897/learning-beyond-gradients) [<!--stars:Trinkle23897/learning-beyond-gradients-->⭐&nbsp;630<!--/stars-->](https://github.com/Trinkle23897/learning-beyond-gradients) - 提出 Heuristic Learning 的长文，讨论编码智能体如何在不更新梯度的情况下持续改进软件策略和系统。
 2. [HL-ImageNet](https://github.com/xisen-w/hl-imagenet) [<!--stars:xisen-w/hl-imagenet-->⭐&nbsp;67<!--/stars-->](https://github.com/xisen-w/hl-imagenet) - 在 ImageNet 风格视觉识别任务上探索 Heuristic Learning 的实验项目。
 3. [Trajevo(Evolving SOTA Trajectory Prediction Heuristics with LLMs)](https://github.com/ai4co/trajevo) [<!--stars:ai4co/trajevo-->⭐&nbsp;21<!--/stars-->](https://github.com/ai4co/trajevo) - 使用 LLM 驱动的进化流程来设计轨迹预测启发式方法。
 4. [PatchWorld: Learning Executable World Models without Gradients](https://github.com/HKBU-KnowComp/PatchWorld) [<!--stars:HKBU-KnowComp/PatchWorld-->⭐&nbsp;8<!--/stars-->](https://github.com/HKBU-KnowComp/PatchWorld) - 无梯度框架，通过反例驱动的代码修复，从离线轨迹中归纳可检查的 Python 世界模型。
@@ -68,7 +68,7 @@
 2. [Autoresearch Paradigm Fire](https://github.com/DeveshParagiri/ed-autoresearch) [<!--stars:DeveshParagiri/ed-autoresearch-->⭐&nbsp;0<!--/stars-->](https://github.com/DeveshParagiri/ed-autoresearch) - 关于扩展 autoresearch 循环的文章，讨论如何超越基础的指标优化智能体。
 3. [PrimeIntellect](https://github.com/PrimeIntellect-ai/experiments-autonomous-speedrunning) [<!--stars:PrimeIntellect-ai/experiments-autonomous-speedrunning-->⭐&nbsp;111<!--/stars-->](https://github.com/PrimeIntellect-ai/experiments-autonomous-speedrunning) - Prime Intellect 的自主 nanoGPT speedrun 实验，让 Codex 和 Claude Code 在大规模算力上搜索优化器方案。
 4. [AutoScientists](https://github.com/mims-harvard/AutoScientists/tree/main) [<!--stars:mims-harvard/AutoScientists-->⭐&nbsp;766<!--/stars-->](https://github.com/mims-harvard/AutoScientists) - 面向长期科学实验的自组织多智能体团队框架。
-5. [DeLM](https://github.com/yuzhenmao/DeLM) [<!--stars:yuzhenmao/DeLM-->⭐&nbsp;124<!--/stars-->](https://github.com/yuzhenmao/DeLM) - 去中心化多智能体框架，让并行智能体通过共享的已验证上下文和任务队列协作。（注：第 4 和第 5 项都使用并行智能体开展研究）
+5. [DeLM](https://github.com/yuzhenmao/DeLM) [<!--stars:yuzhenmao/DeLM-->⭐&nbsp;125<!--/stars-->](https://github.com/yuzhenmao/DeLM) - 去中心化多智能体框架，让并行智能体通过共享的已验证上下文和任务队列协作。（注：第 4 和第 5 项都使用并行智能体开展研究）
 6. [ENPIRE](https://research.nvidia.com/labs/gear/enpire/#article-title) - Agentic Robot Policy
 Self-Improvement in the Real World (ENPIRE)，让机器人智能体在物理世界中通过自主实验和改进来提升性能。
 
@@ -126,7 +126,7 @@ Self-Improvement in the Real World (ENPIRE)，让机器人智能体在物理世�
 ## xCode 系列
 
 1. [MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) [<!--stars:XiaomiMiMo/MiMo-Code-->⭐&nbsp;13.6k<!--/stars-->](https://github.com/XiaomiMiMo/MiMo-Code) - 小米 MiMo 的 coding-agent CLI，定位为下一代 agent 起点，并与 OpenCode 生态相关。
-2. [OpenCode](https://github.com/anomalyco/opencode) [<!--stars:anomalyco/opencode-->⭐&nbsp;211.9k<!--/stars-->](https://github.com/anomalyco/opencode) - 开源 coding agent，用于终端中的软件工程工作流。
+2. [OpenCode](https://github.com/anomalyco/opencode) [<!--stars:anomalyco/opencode-->⭐&nbsp;212.1k<!--/stars-->](https://github.com/anomalyco/opencode) - 开源 coding agent，用于终端中的软件工程工作流。
 3. [Kimi-Code](https://github.com/MoonshotAI/kimi-code) [<!--stars:MoonshotAI/kimi-code-->⭐&nbsp;7.8k<!--/stars-->](https://github.com/MoonshotAI/kimi-code) - Moonshot AI 的 Kimi Code CLI，面向下一代 coding-agent 工作流。
 
 ## 相关项目与资源
@@ -137,7 +137,7 @@ Self-Improvement in the Real World (ENPIRE)，让机器人智能体在物理世�
 4. [Awesome-Autoresearch(A curated awesome list of public autoresearch use cases across industries.)](https://github.com/yibie/awesome-autoresearch) [<!--stars:yibie/awesome-autoresearch-->⭐&nbsp;772<!--/stars-->](https://github.com/yibie/awesome-autoresearch) - 公开 autoresearch 用例、基准、研讨会和行业案例的精选列表。
 5. [Awesome-Vibe-Research](https://github.com/modelscope/Awesome-Vibe-Research) [<!--stars:modelscope/Awesome-Vibe-Research-->⭐&nbsp;448<!--/stars-->](https://github.com/modelscope/Awesome-Vibe-Research) - 面向 AI 辅助科研的开放共建仓库, 收集和沉淀科研全流程中的 agents、skills、workflows、tools 与最佳实践
 6. [Awesome-AI-for-Research](https://github.com/THU-KEG/Awesome-AI-for-Research) [<!--stars:THU-KEG/Awesome-AI-for-Research-->⭐&nbsp;128<!--/stars-->](https://github.com/THU-KEG/Awesome-AI-for-Research) - THU-KEG 使用 AI 提升科研效率，拓展科研探索空间。从聚焦工具到参与并重塑科研流程的智能体。
-7. [Awesome-LLM-Scientific-Discovery](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) [<!--stars:HKUST-KnowComp/Awesome-LLM-Scientific-Discovery-->⭐&nbsp;438<!--/stars-->](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) - 一个为科学发现精心搜集的大语言模型（LLM）资源列表，包含相关工具、数据集和论文。
+7. [Awesome-LLM-Scientific-Discovery](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) [<!--stars:HKUST-KnowComp/Awesome-LLM-Scientific-Discovery-->⭐&nbsp;439<!--/stars-->](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) - 一个为科学发现精心搜集的大语言模型（LLM）资源列表，包含相关工具、数据集和论文。
 8. [Awesome AI for Science](https://github.com/ai4s-research/awesome-ai-for-science) [<!--stars:ai4s-research/awesome-ai-for-science-->⭐&nbsp;2k<!--/stars-->](https://github.com/ai4s-research/awesome-ai-for-science) - 面向跨学科科学发现的 AI 工具、库、论文、数据集和框架精选合集。
 
 ## 贡献与维护
